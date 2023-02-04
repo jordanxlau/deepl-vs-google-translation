@@ -3,9 +3,10 @@ def word_for_word_translate():
 
 import deepl
 def deepl_translate(text):
-    auth_key = ""
+    auth_key = open("/Users/jorda/Documents/deepl_auth_key.txt").read()
     translator = deepl.Translator(auth_key) 
-    return translator.translate_text(text, target_lang="french") 
+    translation = translator.translate_text(text, target_lang="fr") 
+    return translation.text
 
 import googletrans as google
 def google_translate(text):
