@@ -9,7 +9,6 @@ def deepl_translate(text):
 
 import googletrans as google
 def google_translate(text):
-    text = "good morning, my name is Jordan"
     translator = google.Translator()
     translation = translator.translate(text, src = 'en', dest = 'fr')
     return translation.text
