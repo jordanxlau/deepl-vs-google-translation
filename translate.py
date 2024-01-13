@@ -1,4 +1,5 @@
-def word_for_word_translate():
+#the downside of this will be that context from other sentences is not kept
+def sentence_translate():
     pass
 
 import deepl
