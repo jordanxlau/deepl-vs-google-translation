@@ -1,6 +1,18 @@
 from numpy import zeros
 
+# to be called on two nonzero sentences
+# this implementation measures the lev distance by word, not by character
+# ie. levenshtein("hello jordan","hello meghan") = 1
 def levenshtein(s,t):
+    #convert the sentences of words to lists of words
+    s = s.split(" ")
+    t = t.split(" ")
+
+    #add a blank character to the end of all the words, as this version of lev distance cannot account for last characters
+    s.append("finalword")
+    t.append("finalword")
+
+    #get the length of the words
     m = len(s)
     n = len(t)
 
@@ -28,11 +40,10 @@ def levenshtein(s,t):
                 substitutionCost = 0
             else:
                 substitutionCost = 1
-            # print(i,j,s[i],t[j],substitutionCost)
+            print(s[i-1],t[j-1], ":", d[i-1, j] + 1, d[i, j-1] + 1, d[i-1, j-1] + substitutionCost)
             d[i, j] = min(
                     d[i-1, j] + 1,                     # deletion
                     d[i, j-1] + 1,                     # insertion
                     d[i-1, j-1] + substitutionCost)    # substitution
-            # print(d[i-1, j] + 1,d[i, j-1] + 1,d[i-1, j-1] + substitutionCost)
-    print(d)
+            
     return d[m-1, n-1]
