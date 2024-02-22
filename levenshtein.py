@@ -40,7 +40,6 @@ def levenshtein(s,t):
                 substitutionCost = 0
             else:
                 substitutionCost = 1
-            print(s[i-1],t[j-1], ":", d[i-1, j] + 1, d[i, j-1] + 1, d[i-1, j-1] + substitutionCost)
             d[i, j] = min(
                     d[i-1, j] + 1,                     # deletion
                     d[i, j-1] + 1,                     # insertion

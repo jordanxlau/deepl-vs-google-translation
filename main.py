@@ -1,6 +1,4 @@
-from numpy import array, append
-from time import sleep
-
+from numpy import array, append, mean
 from levenshtein import levenshtein
 from translate import deepl_translate
 from translate import google_translate
@@ -20,19 +18,22 @@ deepl_sentences = array([deepl_translate(english_sentences[0])])
 google_sentences = array([google_translate(english_sentences[0])])
 
 #this array keeps track of how much the two softwares differ
-print(deepl_sentences[0])
-print("\n")
-print(google_sentences[0])
-print(levenshtein(deepl_sentences[0],google_sentences[0]))
 distances = array([levenshtein(deepl_sentences[0],google_sentences[0])])
 
-#translate the rest of the array
-# for i in range(1, len(english_sentences)):
-#     print(i)
-#     append(deepl_sentences, deepl_translate(english_sentences[i]))
-#     append(google_sentences, google_translate(english_sentences[i]))
-#     print(levenshtein(deepl_sentences[i],google_sentences[i]))
-#     append(distances, levenshtein(deepl_sentences[i],google_sentences[i]))
+#this array keeps the average number of words
+total_words = (len(deepl_sentences[0].split(" ")) + len(google_sentences[0].split(" ")))/2
 
-# print(deepl_sentences)
-# print(google_sentences)
+#translate the rest of the text and update the arrays
+for i in range(1, len(english_sentences)):
+    deepl_sentences = append(deepl_sentences, deepl_translate(english_sentences[i]))
+    google_sentences = append(google_sentences, google_translate(english_sentences[i]))
+    distances = append(distances, levenshtein(deepl_sentences[i],google_sentences[i]))
+    total_words = append(total_words, (len(deepl_sentences[i].split(" ")) + len(google_sentences[i].split(" ")))/2)
+
+print(distances)
+print(total_words)
+
+#performing the statistical analysis here
+print(mean(distances))
+print(mean(total_words))
+print(mean(distances/total_words))
