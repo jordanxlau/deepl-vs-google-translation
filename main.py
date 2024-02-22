@@ -1,43 +1,74 @@
-from numpy import array
-import pandas as pd
+from numpy import array, append, zeros
+from time import sleep
+# import pandas as pd
 from translate import deepl_translate
 from translate import google_translate
 
-#to be called on two sentences of nonzero length
-def lev(a,b):
-    if(len(a)==0):
-        return len(b)
-    elif(len(b)==0):
-        return len(a)
-    elif(a[0]==b[0]):
-        return lev(a[1:], b[1:])
-    else:
-        return 1 + min(lev(a[1:],b), lev(a, b[1:]), lev(a[1:],b[1:]))
+def levenshtein(s,t):
+    m = len(s)
+    n = len(t)
 
-#all distances measured between machine translation and original translation
-deepl_distance = array([])
-google_distance = array([])
+    # for all i and j, d[i,j] will hold the Levenshtein distance between
+    # the first i characters of s and the first j characters of t
+    
+    #set each element in matrix d to zero
+    d = zeros((m, n))
+ 
+    # source prefixes can be transformed into empty string by
+    # dropping all characters
+    for i in range(1, m):
+        d[i, 0] = i
+ 
+    # target prefixes can be reached from empty source prefix
+    # by inserting every character
+    for j in range (1, n):
+        d[0, j] = j
+    
+    substitutionCost = 1
 
-english_text = open('original-english.txt').read()
-english_text = english_text.replace("\n", " ")
-english_text = english_text.replace("â€™","'")
-english_text = english_text.replace("Ã©","é")
-english_sentences = english_text.split(".")
+    for j in range(1, n):
+        for i in range(1, m):
+            if s[i-1] == t[j-1]:#I think wikipedia was wrong about this line
+                substitutionCost = 0
+            else:
+                substitutionCost = 1
+            # print(i,j,s[i],t[j],substitutionCost)
+            d[i, j] = min(
+                    d[i-1, j] + 1,                     # deletion
+                    d[i, j-1] + 1,                     # insertion
+                    d[i-1, j-1] + substitutionCost)    # substitution
+            # print(d[i-1, j] + 1,d[i, j-1] + 1,d[i-1, j-1] + substitutionCost)
+    print(d)
+    return d[m-1, n-1]
 
-translated_text = open('french-translation.txt').read()
-translated_text = translated_text.replace("\n", " ")
-translated_text = translated_text.replace("â€™","'")
-translated_text = translated_text.replace("Ã©","é")
-translated_text = translated_text.replace("Ã¨","è")
-translated_text = translated_text.replace("Ã\xa0","à")
-translated_text = translated_text.replace("Ã§","ç")
-translated_text = translated_text.replace("Ãª","ê")
-translated_text = translated_text.replace("Ã»","û")
-translated_text = translated_text.replace("Ã´","ô")
-translated_sentences = translated_text.split(".")
+# #all distances measured between deepl's translation and google's translation
 
-print(translated_sentences)
+# #prepares the text first
+# english_text = open('original-english.txt').read()
+# english_text = english_text.replace("\n", " ")
+# english_text = english_text.replace("â€™","'")
+# english_text = english_text.replace("Ã©","é")
+# english_sentences = english_text.split(".")
 
-for i in range(0, len(english_sentences)):
-    deepl_distance[i] = lev(translated_sentences[i], deepl_translate(english_sentences[i]))
-    google_distance[i] = lev(translated_sentences[i], google_translate(english_sentences[i]))
+# english_sentences = ["Hello my name is Jordan"]
+
+# # fill the arrays with the first translated sentences
+# deepl_sentences = array([deepl_translate(english_sentences[0])])
+# google_sentences = array([google_translate(english_sentences[0])])
+
+# #this array keeps track of how much the two softwares differ
+# print(deepl_sentences[0])
+# print(google_sentences[0])
+# print(lev(deepl_sentences[0],google_sentences[0]))
+# distances = array([lev(deepl_sentences[0],google_sentences[0])])
+
+# #translate the rest of the array
+# for i in range(1, len(english_sentences)):
+#     print(i)
+#     append(deepl_sentences, deepl_translate(english_sentences[i]))
+#     append(google_sentences, google_translate(english_sentences[i]))
+#     print(lev(deepl_sentences[i],google_sentences[i]))
+#     append(distances, lev(deepl_sentences[i],google_sentences[i]))
+
+# # print(deepl_sentences)
+# # print(google_sentences)
