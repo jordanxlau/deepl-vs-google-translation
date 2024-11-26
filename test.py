@@ -1,5 +1,6 @@
 import unittest
 from levenshtein import levenshtein
+from translate import deepl_translate, google_translate
 
 class TestLev(unittest.TestCase):
     
@@ -16,6 +17,15 @@ class TestLev(unittest.TestCase):
         self.assertEqual(levenshtein("était","etait"),1)
         self.assertEqual(levenshtein("il s'appelle","il se appelle"),2)
         self.assertEqual(levenshtein("il s'appelle","il appelle"),1)
+
+class TestTranslate(unittest.TestCase):
+    def test_deepl(self):
+        self.assertEqual(deepl_translate("Hello"),"Bonjour")
+        self.assertEqual(deepl_translate("Yes"),"Oui")
+
+    def test_google(self):
+        self.assertEqual(google_translate("Hello"),"Bonjour")
+        self.assertEqual(deepl_translate("Yes"),"Oui")
 
 if __name__ == '__main__':
     unittest.main()
