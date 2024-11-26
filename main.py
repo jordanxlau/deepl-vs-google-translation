@@ -2,11 +2,13 @@ from numpy import array, append, mean
 from levenshtein import levenshtein
 from translate import deepl_translate
 from translate import google_translate
+from tqdm import tqdm
+import sys
 
 #all distances measured between deepl's translation and google's translation
 
 #prepares the text first
-english_text = open('original-english.txt').read()
+english_text = open('full-text.txt').read()
 english_text = english_text.replace("\n", " ")
 english_text = english_text.replace("â€™","'")
 english_text = english_text.replace("Ã©","é")
@@ -24,16 +26,12 @@ distances = array([levenshtein(deepl_sentences[0],google_sentences[0])])
 total_words = (len(deepl_sentences[0].split(" ")) + len(google_sentences[0].split(" ")))/2
 
 #translate the rest of the text and update the arrays
-for i in range(1, len(english_sentences)):
+for i in tqdm (range(1, len(english_sentences)), desc="Translating...", file=sys.stdout):
     deepl_sentences = append(deepl_sentences, deepl_translate(english_sentences[i]))
     google_sentences = append(google_sentences, google_translate(english_sentences[i]))
     distances = append(distances, levenshtein(deepl_sentences[i],google_sentences[i]))
     total_words = append(total_words, (len(deepl_sentences[i].split(" ")) + len(google_sentences[i].split(" ")))/2)
 
-print(distances)
-print(total_words)
-
 #performing the statistical analysis here
-print(mean(distances))
-print(mean(total_words))
-print(mean(distances/total_words))
+print("Average Levenshtein distance between Google translate and DeepL:", mean(distances))
+print("Average Levenshtein distance per word:", mean(distances/total_words))
