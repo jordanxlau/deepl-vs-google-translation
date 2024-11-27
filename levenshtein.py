@@ -1,3 +1,4 @@
+import subprocess
 from numpy import zeros
 
 # to be called on two nonzero sentences
@@ -46,3 +47,6 @@ def levenshtein(s,t):
                     d[i-1, j-1] + substitutionCost)    # substitution
             
     return d[m-1, n-1]
+
+def levenshtein_fast(s,t):
+    return int(subprocess.run([".\\levenshtein.exe",s,t], capture_output=True).stdout.decode())
