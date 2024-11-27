@@ -1,5 +1,6 @@
 from numpy import array, append, mean
-from levenshtein import levenshtein
+import matplotlib.pyplot as plt
+from levenshtein import levenshtein_fast, levenshtein
 from translate import deepl_translate
 from translate import google_translate
 from tqdm import tqdm
@@ -29,9 +30,18 @@ total_words = (len(deepl_sentences[0].split(" ")) + len(google_sentences[0].spli
 for i in tqdm (range(1, len(english_sentences)), desc="Translating...", file=sys.stdout):
     deepl_sentences = append(deepl_sentences, deepl_translate(english_sentences[i]))
     google_sentences = append(google_sentences, google_translate(english_sentences[i]))
-    distances = append(distances, levenshtein(deepl_sentences[i],google_sentences[i]))
+    try:
+        distances = append(distances, levenshtein_fast(deepl_sentences[i],google_sentences[i]))
+    except:
+        distances = append(distances, levenshtein(deepl_sentences[i],google_sentences[i]))
     total_words = append(total_words, (len(deepl_sentences[i].split(" ")) + len(google_sentences[i].split(" ")))/2)
 
 #performing the statistical analysis here
 print("Average Levenshtein distance between Google translate and DeepL:", mean(distances))
 print("Average Levenshtein distance per word:", mean(distances/total_words))
+
+# Plot a comparison of deepl and google
+plt.title("Comparison of DeepL and Google")
+plt.plot(distances, color=(0,0.7,0.7))
+plt.ylabel("distance")
+plt.show()
