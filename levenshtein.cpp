@@ -1,10 +1,12 @@
 // from numpy import zeros
 #include <iostream>
+#include <cstring>
 #include <string>
 #include <vector>
+using namespace std;
 
 // Method to take minimum of 3 integers
-int min(int i, int j, int k){
+static int min(int i, int j, int k){
     if (i <= j && i <= k)
         return i;
     else if (j <= k && j <= i)
@@ -14,11 +16,11 @@ int min(int i, int j, int k){
 }
 
 // Method to split a String by " "
-std::vector<std::string> split(std::string s){
-    std::vector<std::string> res = {}; // List of Strings
-    std::string word = "";
+static vector<string> split(const char* s){
+    vector<string> res = {}; // List of Strings
+    string word = "";
 
-    for (int i = 0; i<s.length(); i++){
+    for (int i = 0; i<strlen(s); i++){
         if (s[i] != ' ') {
             word = word + s[i];
         }
@@ -36,11 +38,10 @@ std::vector<std::string> split(std::string s){
 // to be called on two nonzero sentences
 // this implementation measures the lev distance by word, not by character
 // ie. levenshtein("hello jordan","hello meghan") = 1
-int main(int argc, char* argv[]){
-
+extern "C" __declspec(dllexport) int levenshtein(const char* arg1, const char* arg2) {
     //convert the sentences of words to lists of words
-    std::vector<std::string> s = split(argv[1]);
-    std::vector<std::string> t = split(argv[2]);
+    vector<string> s = split(arg1);
+    vector<string> t = split(arg2);
     
     //add a blank character to the end of all the words, as this version of lev distance cannot account for last characters
     s.push_back("finalword");
@@ -54,21 +55,21 @@ int main(int argc, char* argv[]){
     // the first i characters of s and the first j characters of t
     
     //create a matrix of zeros of length mxn
-    std::vector<std::vector<int>> d;
+    vector<vector<int>> d;
     for (int i = 0; i < m; i++){
-        std::vector<int> row;
+        vector<int> row;
         for (int j = 0; j<n; j++){
             row.push_back(0);
         }
         d.push_back(row);
         row = {};
     }
- 
+
     // source prefixes can be transformed into empty string by
     // dropping all characters
     for (int i = 1; i<m; i++)
         d[i][0] = i;
- 
+
     // target prefixes can be reached from empty source prefix
     // by inserting every character
     for (int j = 0; j<n; j++)
@@ -89,7 +90,5 @@ int main(int argc, char* argv[]){
         }
     }
 
-    std::cout << d[m-1][n-1];
-
-    return 0;
+    return d[m-1][n-1];
 }

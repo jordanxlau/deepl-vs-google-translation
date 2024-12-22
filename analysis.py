@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+from levenshtein import levenshtein
 from tqdm import tqdm
 import sys
-from levenshtein import levenshtein_fast, levenshtein
 
 sentences = pd.read_csv("sentences.csv")
 deepl_sentences = sentences.iloc[:,1]
@@ -17,7 +17,7 @@ distances = np.array([levenshtein(deepl_sentences[0],google_sentences[0])])
 #this array keeps the average number of words
 total_words = (len(deepl_sentences[0].split(" ")) + len(google_sentences[0].split(" ")))/2
 
-# distances = np.vectorize(levenshtein)(deepl_sentences, google_sentences)
+# distances = np.vectorize(levenshtein_fast)(deepl_sentences, google_sentences)
 
 #compare the rest of the text
 for i in tqdm (range(1, len(deepl_sentences)), colour="green", desc="Comparing Sentences...", file=sys.stdout):
