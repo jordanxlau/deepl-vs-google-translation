@@ -20,6 +20,7 @@ class TestLev(unittest.TestCase):
 
 class TestLevFast(unittest.TestCase):
     def test_three(self):
+        self.assertEqual(levenshtein_fast("distance","distance"), 0)
         self.assertEqual(levenshtein_fast("hello jordan","hello meghan"), 1)
         self.assertEqual(levenshtein_fast("he is","she is"), 1)
         self.assertEqual(levenshtein_fast("War of the Worlds","For of the Worlds"), 1)
@@ -27,7 +28,7 @@ class TestLevFast(unittest.TestCase):
         self.assertEqual(levenshtein_fast("Seventeen different people","different"), 2)
         self.assertEqual(levenshtein_fast("Ten terrible tantrums on Tuesday","Five feverish fits on Friday"), 4)
         self.assertEqual(levenshtein_fast("Salut, je m'appelle Jordan","Bonjour, je m'appelle Jordan"), 1)
-    
+
     def test_four(self):
         self.assertEqual(levenshtein_fast("était","etait"),1)
         self.assertEqual(levenshtein_fast("il s'appelle","il se appelle"),2)
