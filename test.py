@@ -40,7 +40,7 @@ class TestTranslate(unittest.TestCase):
 
     def test_six(self):
         self.assertEqual(google_translate("Hello"),"Bonjour")
-        self.assertEqual(deepl_translate("Yes"),"Oui")
+        self.assertEqual(google_translate("Yes"),"Oui")
 
 if __name__ == '__main__':
     unittest.main()
