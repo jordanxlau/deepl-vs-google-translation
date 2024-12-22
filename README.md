@@ -4,9 +4,14 @@ https://en.wikipedia.org/wiki/Levenshtein_distance
 
 I also modify the implementation such that it measures the distance by word, not by character.
 
-To run the experiment for yourself:
+To pre-translate the text for yourself:
 ```
 python main.py
+```
+
+To run the data analysis for yourself:
+```
+python analysis.py
 ```
 
 To run the unit tests:
