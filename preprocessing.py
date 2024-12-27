@@ -30,15 +30,15 @@ deepl_paragraphs = []
 google_paragraphs = []
 
 # translate the text
-for i in tqdm (range(0, 100), colour="green", desc="Translating...", file=sys.stdout):
+for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Translating...", file=sys.stdout):
     deepl_paragraphs.append(deepl_translate(english_paragraphs[i]))
     google_paragraphs.append(google_translate(english_paragraphs[i]))
 
 # save the data as a .csv
 paragraphs = pd.DataFrame({
-    "original english paragraphs":english_paragraphs[:100],
+    "original english paragraphs":english_paragraphs,
     "deepl paragraphs":deepl_paragraphs,
     "google paragraphs":google_paragraphs,
-    "human-translated paragraphs":human_translated_paragraphs[:100]
+    "human-translated paragraphs":human_translated_paragraphs
 })
 paragraphs.to_csv("paragraphs.csv", encoding='utf-8', index=False)
