@@ -1,4 +1,4 @@
-from src.translate import deepl_translate, google_translate
+from translate import deepl_translate, google_translate
 from tqdm import tqdm
 import sys
 import pandas as pd

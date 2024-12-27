@@ -17,12 +17,12 @@ All quotation marks have been removed from the text, as they caused encoding iss
 
 The text is pre-translated in `preprocessing.py` and saved in `sentences.csv`. You need a deepl auth key for this.
 
-To run the data analysis for yourself:
+To run the data analysis for yourself (in the `/src` directory):
 ```
 python analysis.py
 ```
 
-To run the unit tests:
+To run the unit tests (in the root directory):
 ```
 python test.py
 ```

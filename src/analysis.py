@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-from src.metrics import levenshtein
+from metrics import levenshtein
 from tqdm import tqdm
 import sys
 
