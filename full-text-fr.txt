@@ -1,98 +1,3 @@
-The Project Gutenberg EBook of La guerre des mondes, by H. G.  Wells
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: La guerre des mondes
-
-Author: H. G.  Wells
-
-Illustrator: Alvim Corrêa
-
-Translator: Henry-D Davray
-
-Release Date: November 9, 2019 [EBook #60656]
-
-Language: French
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LA GUERRE DES MONDES ***
-
-
-
-
-Produced by Claudine Corbasson, Chuck Greif and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/American Libraries.)
-
-
-
-
-
-
-
-
-
-                         LA GUERRE DES MONDES
-
-
-
-
-                             H.-G. Wells.
-
-                               La Guerre
-                              des Mondes
-
-                            [Illustration]
-
-                         _TRADUIT DE L’ANGLAIS
-                          PAR HENRY D. DAVRAY
-                         ÉDITION ILLUSTRÉE PAR
-                            =ALVIM-CORRÊA=_
-
-                            [Illustration]
-
-             ÉDITÉ PAR L. VANDAMME & Co., JETTE-BRUXELLES
-                               M C M V I
-
-
-
-
-                     IL A ÉTÉ TIRÉ DE CET OUVRAGE:
-
-             Cinq cents exemplaires semblables à celui-ci,
-                 numérotés de 1 à 500 et portant comme
-
-                        JUSTIFICATION DE TIRAGE
-
-                 la signature de l’Illustrateur.......
-
-
-EXEMPLAIRE Nº
-
-APPARTENANT A
-
-
-   Droits de traduction et de reproduction réservés pour tous pays,
-            y compris la Suède, la Norwège et le Danemark.
-
-                     [Illustration: Livre Premier
-
-                        L’arrivée Des Marsiens]
-
-
-
-
-[Illustration] I
-
-A LA VEILLE DE LA GUERRE
-
-
 Personne n’aurait cru, dans les dernières années du dix-neuvième siècle,
 que les choses humaines fussent observées, de la façon la plus
 pénétrante et la plus attentive, par des intelligences supérieures aux
@@ -277,16 +182,9 @@ soupçonnant peu la signification de la lueur que j’avais vue pendant une
 minute et tout ce qu’elle amènerait bientôt pour moi. Ogilvy resta en
 observation
 
-     ...le spectroscope indiqua une masse de gaz enflammés,
-     principalement de l’hydrogène, s’avançant avec une vélocité énorme
-     vers la terre.
-
-                                                           (CHAPITRE I)
-
-
-
-
-[Illustration]
+...le spectroscope indiqua une masse de gaz enflammés,
+principalement de l’hydrogène, s’avançant avec une vélocité énorme
+vers la terre.
 
 jusqu’à une heure, puis il cessa; nous prîmes la lanterne pour retourner
 chez lui. Au-dessous de nous, dans les ténèbres, étaient les maisons
@@ -347,16 +245,6 @@ retentissant que la distance adoucissait presque en une mélodie. Ma
 femme me fit remarquer l’éclat des feux rouges, verts et jaunes des
 signaux se détachant dans le cadre immense du ciel. Le monde était dans
 une sécurité et une tranquillité parfaites.
-
-[Illustration]
-
-
-
-
-[Illustration] II
-
-LE MÉTÉORE
-
 
 Puis vint la nuit où tomba le premier météore. On le vit, dans le petit
 matin, passer au-dessus de Winchester, ligne de flamme allant vers
@@ -440,18 +328,9 @@ marque noire avancer brusquement d’un pouce ou deux. Alors, comme un
 artificiel--creux--avec un sommet qui se dévissait! Quelque chose dans
 le cylindre dévissait le sommet!
 
-     Puis vint la nuit où tomba le premier météore. On le vit, dans le
-     petit matin, passer au-dessus de Winchester, ligne de flamme allant
-     vers l’est, très haut dans l’atmosphère.
-
-                                                           (CHAPITRE II)
-
-
-
-
-
-
-[Illustration]
+Puis vint la nuit où tomba le premier météore. On le vit, dans le
+petit matin, passer au-dessus de Winchester, ligne de flamme allant
+vers l’est, très haut dans l’atmosphère.
 
 --Ciel! s’écria Ogilvy, il y a un homme, des hommes là-dedans! à demi
 rôtis, qui cherchent à s’échapper!
@@ -520,16 +399,6 @@ d’abord par le gamin qui m’apportait mes journaux, vers neuf heures
 moins un quart. Je fus naturellement fort étonné et, sans perdre une
 minute, je me dirigeai, par le pont d’Ottershaw, vers les carrières de
 sable.
-
-[Illustration]
-
-
-
-
-[Illustration] III
-
-SUR LA LANDE
-
 
 Je trouvai une vingtaine de personnes environ rassemblées autour du trou
 immense dans lequel s’était enfoncé le cylindre. J’ai déjà décrit
@@ -616,17 +485,8 @@ Royal, dirigeant des ouvriers munis de pelles et de pioches. Stent
 donnait des ordres d’une voix claire et aiguë. Il était debout sur le
 cylindre qui devait être maintenant considérablement refroidi.
 
-     Cela ressemblait à un gazomètre rouillé, à demi enfoncé dans le
-     sol, plus qu’à autre chose au monde.
-
-                                                           (CHAPITRE III)
-
-
-
-
-
-
-[Illustration]
+Cela ressemblait à un gazomètre rouillé, à demi enfoncé dans le
+sol, plus qu’à autre chose au monde.
 
 Sa figure était rouge et transpirait abondamment; quelque chose semblait
 l’avoir irrité.
@@ -651,16 +511,6 @@ devenir ainsi un des spectateurs privilégiés en deça de la clôture. Je
 ne rencontrai pas lord Hilton chez lui, mais j’appris qu’on l’attendait
 par le train de six heures; comme il était alors cinq heures un quart,
 je rentrai chez moi prendre le thé et me rendis ensuite à la gare.
-
-[Illustration]
-
-
-
-
-[Illustration] IV
-
-LE CYLINDRE SE DÉVISSE
-
 
 Quand je revins à la lande, le soleil se couchait. Des groupes épars se
 hâtaient, venant de Woking, et une ou deux personnes s’en retournaient.
@@ -788,29 +638,10 @@ creux était une rangée de véhicules abandonnés, dont les chevaux
 frappaient de leurs sabots le sol ou achevaient la pitance d’avoine de
 leurs musettes.
 
-[Illustration]
-
-     Une grosse masse grisâtre et ronde, de la grosseur à peu près d’un
-     ours, s’élevait lentement et péniblement hors du cylindre. Au
-     moment où elle parut en pleine lumière, elle eût des reflets de
-     cuir mouillé. Deux grands yeux sombres me regardaient fixement.
-
-                                                           (CHAPITRE IV)
-
-
-
-
-
-
-[Illustration]
-
-
-
-
-[Illustration] V
-
-LE RAYON ARDENT
-
+Une grosse masse grisâtre et ronde, de la grosseur à peu près d’un
+ours, s’élevait lentement et péniblement hors du cylindre. Au
+moment où elle parut en pleine lumière, elle eût des reflets de
+cuir mouillé. Deux grands yeux sombres me regardaient fixement.
 
 Après le coup d’œil que j’avais pu jeter sur les Marsiens émergeant du
 cylindre dans lequel ils étaient venus de leur planète sur la terre, une
@@ -890,8 +721,6 @@ suivaient à un intervalle discret.
 Tout à coup il y eut un soudain jet de lumière et une fumée grisâtre et
 lumineuse sortit du trou en trois bouffées distinctes, qui, l’une après
 l’autre, montèrent se perdre dans l’air tranquille.
-
-[Illustration]
 
 Cette fumée--il serait peut-être plus exact de dire cette flamme--était
 si brillante que le ciel, d’un bleu profond au-dessus de nos têtes, et
@@ -989,30 +818,11 @@ moi et qu’au moment où j’atteindrais la limite du danger, cette mort
 mystérieuse--aussi soudaine que l’éclair--allait surgir du cylindre et
 me frapper.
 
-[Illustration]
-
-     Aussitôt des jets de réelle flamme, des lueurs brillantes sautant
-     de l’un à l’autre, jaillirent du groupe d’hommes dispersés. On eût
-     dit que quelque invisible jet se heurtait contre eux et que du choc
-     naissait une flamme blanche. Il semblait que chacun d’eux fût
-     soudain et momentanément changé en flamme.
-
-                                                           (CHAPITRE V)
-
-
-
-
-
-
-[Illustration]
-
-
-
-
-[Illustration] VI
-
-LE RAYON ARDENT SUR LA ROUTE DE CHOBHAM
-
+Aussitôt des jets de réelle flamme, des lueurs brillantes sautant
+de l’un à l’autre, jaillirent du groupe d’hommes dispersés. On eût
+dit que quelque invisible jet se heurtait contre eux et que du choc
+naissait une flamme blanche. Il semblait que chacun d’eux fût
+soudain et momentanément changé en flamme.
 
 La façon dont les Marsiens peuvent si rapidement et silencieusement
 donner la mort est encore un sujet d’étonnement. Certains pensent qu’ils
@@ -1042,8 +852,6 @@ jeunes gens et les jeunes filles, après les travaux de la journée,
 prenant occasion de cette nouveauté comme de toute autre, pour faire une
 promenade ensemble et fleureter à loisir. Vous pouvez vous figurer le
 bourdonnement des voix au long de la route, dans le crépuscule.
-
-[Illustration]
 
 Jusqu’alors sans doute, peu de gens, dans Woking même, savaient que le
 cylindre était ouvert, bien que le pauvre Henderson eût envoyé un
@@ -1106,16 +914,6 @@ s’ensuivit. Tous n’échappèrent pas: trois personnes--deux femmes et un
 petit garçon--furent renversées, piétinées, et laissées pour mortes dans
 la terreur et les ténèbres.
 
-[Illustration]
-
-
-
-
-[Illustration] VII
-
-COMMENT JE RENTRAI CHEZ MOI
-
-
 Pour ma part, je ne me rappelle rien de ma fuite, sinon des heurts
 violents contre des arbres et des culbutes dans la bruyère. Tout autour
 de moi s’assemblait la terreur invisible des Marsiens. Cette impitoyable
@@ -1147,19 +945,10 @@ Je me levai et gravis d’un pas mal assuré la pente raide du pont. Mon
 esprit
 
 ...un jet de lumière sans bruit presque et aveuglant, qui faisait
-     s’affaisser, inanimés, tous ceux qu’il atteignait, et de même,
-     quand l’invisible trait ardent passait sur eux, les pins flambaient
-     et tous les buissons de genêts secs s’enflammaient avec un bruit
-     sourd.
-
-                                                           (CHAPITRE V)
-
-
-
-
-
-
-[Illustration]
+s’affaisser, inanimés, tous ceux qu’il atteignait, et de même,
+quand l’invisible trait ardent passait sur eux, les pins flambaient
+et tous les buissons de genêts secs s’enflammaient avec un bruit
+sourd.
 
 était envahi par une morne stupéfaction. Mes muscles et mes nerfs
 semblaient privés de toute force. Je devais tituber comme un homme ivre.
@@ -1297,16 +1086,6 @@ mort à coups de bec, demain, ma chère!
 Sans le savoir, c’était le dernier dîner civilisé que je devais faire
 pendant d’étranges et terribles jours.
 
-[Illustration]
-
-
-
-
-[Illustration] VIII
-
-VENDREDI SOIR
-
-
 De toutes les choses surprenantes et merveilleuses qui arrivèrent ce
 vendredi-là, la plus étrange à mon esprit fut la combinaison des
 habitudes ordinaires et banales de notre ordre social avec les premiers
@@ -1322,19 +1101,10 @@ entendu parler du cylindre, en avaient même causé à leurs moments de
 loisir, mais cela n’avait certainement pas produit la sensation
 qu’aurait soulevée un ultimatum à l’Allemagne.
 
-     Alors, avec un sifflement le rayon oscilla, enflammant les cimes
-     des hêtres qui bordaient la route, faisant éclater les briques,
-     fracassant les carreaux, enflammant les boiseries des fenêtres et
-     faisant s’écrouler en miettes le pignon d’une maison...
-
-                                                           (CHAPITRE VI)
-
-
-
-
-
-
-[Illustration]
+Alors, avec un sifflement le rayon oscilla, enflammant les cimes
+des hêtres qui bordaient la route, faisant éclater les briques,
+fracassant les carreaux, enflammant les boiseries des fenêtres et
+faisant s’écrouler en miettes le pignon d’une maison...
 
 A Londres, ce soir-là, le télégramme du malheureux Henderson, décrivant
 le dévissage graduel du projectile, fut reçu comme un canard et le
@@ -1425,16 +1195,6 @@ Chertsey à Woking vit une étoile tomber du ciel dans un bois de sapins
 vers le nord-ouest. Une lumière verdâtre et des lueurs soudaines comme
 les éclairs des nuits d’été accompagnaient le météore. C’était un second
 cylindre.
-
-[Illustration]
-
-
-
-
-[Illustration] IX
-
-LA LUTTE COMMENCE
-
 
 La journée du samedi est restée dans ma mémoire comme un jour de répit.
 Ce fut aussi un jour de lassitude, lourd et étouffant, avec, m’a-t-on
@@ -1531,17 +1291,10 @@ Ils continuèrent à discuter la chose sur ce ton. Après un certain temps,
 je les quittai et me dirigeai vers la gare pour y chercher autant de
 journaux du matin que j’en pourrais trouver.
 
-     Tout au long; de la nuit, les Marsiens s’agitèrent et martelèrent,
-     infatigables et sans sommeil, à l’œuvre après les machines qu’ils
-     apprêtaient, et de temps en temps une bouffée grisâtre
-     tourbillonnait vers le ciel étoilé.
-
-                                                           (CHAPITRE VIII)
-
-
-
-
-[Illustration]
+Tout au long; de la nuit, les Marsiens s’agitèrent et martelèrent,
+infatigables et sans sommeil, à l’œuvre après les machines qu’ils
+apprêtaient, et de temps en temps une bouffée grisâtre
+tourbillonnait vers le ciel étoilé.
 
 Mais je ne fatiguerai pas le lecteur par une description plus détaillée
 de cette longue matinée et de l’après-midi plus longue encore. Je ne pus
@@ -1698,22 +1451,12 @@ canon qui cessa tout d’un coup et les détonations intermittentes des
 fusils. Apparemment les Marsiens mettaient le feu à tout ce qui se
 trouvait à portée de leur Rayon Ardent.
 
-[Illustration]
-
 Je ne suis pas un cocher expert, et il me fallut bien vite donner toute
 mon attention au cheval. Quand je me tournai une fois encore, la seconde
 colline cachait complètement la fumée noire. D’un coup de fouet,
 j’enlevai le cheval, lui lâchant les rênes jusqu’à ce que Woking et Send
 fussent entre nous et tout ce tumulte. Entre ces deux localités, j’avais
 rattrapé et dépassé la voiture du docteur.
-
-
-
-
-[Illustration] X
-
-EN PLEINE MÊLÉE
-
 
 Leatherhead est à environ douze milles de Maybury Hill. L’odeur des
 foins emplissait l’air; au long des grasses prairies au delà de Pyrford
@@ -1905,8 +1648,6 @@ choses qui survenaient et mon misérable état physique m’ahurissaient,
 car j’étais meurtri, accablé, trempé jusqu’aux os, assourdi et aveuglé
 par l’orage.
 
-[Illustration]
-
 J’avais la vague idée de rentrer chez moi et ce fut un mobile suffisant
 pour me déterminer. Je trébuchai au milieu des arbres, tombai dans un
 fossé, me cognai le genou contre un pieu et finalement barbotai dans le
@@ -1958,21 +1699,9 @@ de métal à l’allure si terriblement rapide et par le souvenir du cadavre
 --Je me blottis au pied de l’escalier, le dos contre le mur et
 frissonnant violemment.
 
-    Mon imagination était hantée par ces monstres de métal à l’allure
-    si terriblement rapide et par le souvenir du cadavre écrasé contre
-    la palissade.
-
-                                                           (CHAPITRE X)
-
-[Illustration]
-
-
-
-
-[Illustration] XI
-
-A LA FENÊTRE
-
+Mon imagination était hantée par ces monstres de métal à l’allure
+si terriblement rapide et par le souvenir du cadavre écrasé contre
+la palissade.
 
 J’ai déjà dit que mes plus violentes émotions ont le don de s’épuiser
 d’elles-mêmes. Au bout d’un moment, je m’aperçus que j’étais glacé et
@@ -2128,8 +1857,6 @@ de cheval, je m’étais tordu les reins et il me fallut rester là jusqu’à
 ce que le mal fût passé. Une minute auparavant, on aurait cru être à la
 revue,--puis patatras, bing, pan!--Balayés d’un seul coup! répéta-t-il.
 
-[Illustration]
-
 Il était demeuré fort longtemps sous le cheval mort, essayant de jeter
 des regards furtifs sur la lande. Les hussards avaient tenté, en
 s’éparpillant, une charge contre le cylindre, mais ils avaient été
@@ -2213,16 +1940,6 @@ disparaissaient.
 Au delà, vers Chobham, se dressaient des colonnes de flamme. Aux
 premières lueurs du four, elles se changèrent en colonnes de fumée
 rougeâtre.
-
-[Illustration]
-
-
-
-
-[Illustration] XII
-
-CE QUE JE VIS DE LA DESTRUCTION DE WEYBRIDGE ET DE SHEPPERTON
-
 
 Quand l’aube fut trop claire, nous nous retirâmes de la fenêtre d’où
 nous avions observé les Marsiens, et nous descendîmes doucement au
@@ -2309,12 +2026,8 @@ direction, me dit le lieutenant. Que se prépare-t-il par là?
 Sa voix et son regard disaient toute son inquiétude. Les hommes,
 derrière
 
-    Un peu plus tard, ce bouclier se dressa sur trois pieds et devint
-    la première des machines que j’avais vues.
-
-    (CHAPITRE XI)
-
-[Illustration]
+Un peu plus tard, ce bouclier se dressa sur trois pieds et devint
+la première des machines que j’avais vues.
 
 lui, nous dévisageaient curieusement. L’artilleur sauta du talus sur la
 route, rectifia la position et salua.
@@ -2355,8 +2068,6 @@ est à Weybridge. Vous savez le chemin?
 Et il tourna son cheval du côté d’où nous venions.
 
 --Vous dites à un demi-mille? demanda-t-il.
-
-[Illustration]
 
 --Au plus, répondis-je, et j’indiquai les cimes des arbres vers le sud.
 Il me remercia et se mit en route. Nous ne le revîmes plus.
@@ -2417,8 +2128,6 @@ Je m’arrêtai et le saisis par le bras.
 --Savez-vous ce qui vient là-bas? lui dis-je en montrant les bois de
 sapin qui cachaient la vue des Marsiens.
 
-[Illustration]
-
 --Eh! fit-il en se retournant. Croyez-vous, il ne veut pas comprendre
 que mes plantes ont une grande valeur.
 
@@ -2442,8 +2151,6 @@ dominicales. Au milieu de tout cela, le digne prêtre de la paroisse
 célébrait fort courageusement un service matinal et le vacarme de sa
 cloche s’efforçait de surmonter le tapage et le tumulte qui
 remplissaient le village.
-
-[Illustration]
 
 L’artilleur et moi, assis sur les marches de la fontaine, nous fîmes un
 repas suffisamment réconfortant avec les provisions que nous avions
@@ -2713,30 +2420,15 @@ semblait-il, à travers une étendue immense d’eau et de prairies.
 Puis, très lentement, je me rendis compte que par miracle j’avais
 échappé.
 
-[Illustration]
+Simultanément deux obus éclatèrent en l’air, mais près du corps du
+Marsien, au moment où la tête se tortillait juste à temps pour
+recevoir, et trop tard pour esquiver, un quatrième obus. Celui-ci
+éclata en plein contre la tête du monstre. L’espèce de capuchon de
+métal fut crevé, éclata et alla tournoyer dans l’air en une
+douzaine de fragments de métal brillant et de lambeaux de chair
+rougeâtre.
 
-
-     Simultanément deux obus éclatèrent en l’air, mais près du corps du
-     Marsien, au moment où la tête se tortillait juste à temps pour
-     recevoir, et trop tard pour esquiver, un quatrième obus. Celui-ci
-     éclata en plein contre la tête du monstre. L’espèce de capuchon de
-     métal fut crevé, éclata et alla tournoyer dans l’air en une
-     douzaine de fragments de métal brillant et de lambeaux de chair
-     rougeâtre.
-
-    --Touché!
-
-                                                         (CHAPITRE XII)
-
-[Illustration]
-
-
-
-
-[Illustration] XIII
-
-PAR QUEL HASARD JE RENCONTRAI LE VICAIRE.
-
+--Touché!
 
 Après avoir donné aux humains cette brutale leçon sur la puissance de
 leurs armes, les Marsiens regagnèrent leur première position sur la
@@ -2778,8 +2470,6 @@ d’eux se tint en sentinelle, tandis que les autres, abandonnant leurs
 travaillèrent ferme bien avant dans la nuit et la colonne de fumée dense
 et verte qui s’élevait et planait au-dessus d’eux se voyait des collines
 de Merrow et même, dit-on, de Banstead et d’Epsom Downs.
-
-[Illustration]
 
 Alors, tandis que derrière moi les Marsiens se préparaient ainsi à leur
 prochaine sortie, et que devant moi l’Humanité se ralliait pour la
@@ -2976,16 +2666,6 @@ splendeur calme et ardente du couchant.
 
 --Nous ferons mieux de suivre ce sentier, vers le nord, dis-je.
 
-[Illustration]
-
-
-
-
-[Illustration] XIV
-
-A LONDRES
-
-
 Mon frère cadet se trouvait à Londres quand les Marsiens tombèrent à
 Woking. Il était étudiant en médecine et, absorbé par la préparation
 d’un examen imminent, il n’apprit cette arrivée que dans la matinée du
@@ -3061,17 +2741,13 @@ bataillon du régiment de Cardigan. Les détails manquent. Les Maxims ont
 ont été mises hors de combat par eux. Des détachements de hussards ont
 traversé Chertsey au
 
-    Ils avaient passé tout près de moi et deux d’entre eux étaient
-    penchés sur les ruines écumeuses et tumultueuses de leur camarade.
+Ils avaient passé tout près de moi et deux d’entre eux étaient
+penchés sur les ruines écumeuses et tumultueuses de leur camarade.
 
-    Les deux autres étaient debout dans l’eau auprès de lui, l’un à
-    deux cents mètres de moi, l’autre vers Laleham. Ils agitaient
-    violemment les générateurs du Rayon Ardent et le jet sifflant
-    frappait en tous sens et de toutes parts.
-
-                                                         (CHAPITRE XII)
-
-[Illustration]
+Les deux autres étaient debout dans l’eau auprès de lui, l’un à
+deux cents mètres de moi, l’autre vers Laleham. Ils agitaient
+violemment les générateurs du Rayon Ardent et le jet sifflant
+frappait en tous sens et de toutes parts.
 
 galop. Les Marsiens semblent s’avancer lentement vers Chertsey ou
 Windsor. Une grande anxiété règne dans tout l’ouest du Surrey et des
@@ -3080,8 +2756,6 @@ leur marche sur Londres.» Ce fut ainsi que le «Sunday Sun» annonça la
 chose. Dans le «Referee» un article en style de manuel, habilement et
 rapidement écrit, compara l’affaire à une ménagerie soudainement lâchée
 dans un village.
-
-[Illustration]
 
 Personne à Londres ne savait positivement de quelle nature étaient les
 Marsiens cuirassés et une idée fixe persistait que ces montres devaient
@@ -3169,8 +2843,6 @@ Peu après cela, une escouade d’agents de police arriva, qui se mit en
 devoir de dégager les quais de la gare et mon frère se retrouva dans la
 rue.
 
-[Illustration]
-
 Les cloches des églises sonnaient les vêpres et une bande de Salutistes
 descendit Waterloo Road en chantant. Sur le pont, des groupes de
 flâneurs regardaient une curieuse écume brunâtre qui, par paquets
@@ -3212,8 +2884,6 @@ caprice du hasard, avait été détruite. Pour les autres, les obus
 n’avaient pas porté et les batteries avaient été immédiatement
 annihilées par les Rayons Ardents. On mentionnait de grosses pertes de
 soldats, mais le ton de la dépêche était optimiste.
-
-[Illustration]
 
 Les Marsiens avaient été repoussés et ils n’étaient pas invulnérables.
 Ils s’étaient retirés de nouveau vers leur triangle de cylindres, aux
@@ -3298,8 +2968,6 @@ réponses incohérentes.
 Il ne put se procurer aucune nouvelle de Woking; un homme pourtant, lui
 assura que Woking avait été entièrement détruit la nuit précédente.
 
-[Illustration]
-
 --Je viens de Byfleet, dit-il; un bicycliste arriva ce matin de bonne
 heure dans le village et courut de porte en porte nous dire de partir.
 Puis ce fut le tour des soldats.
@@ -3362,8 +3030,6 @@ eut des bruits de portes qu’on ouvre et l’une après l’autre les
 fenêtres des maisons d’en face passèrent de l’obscurité à une lumière
 jaunâtre.
 
-[Illustration]
-
 Du bout de la rue arriva au galop une voiture fermée, dont le bruit, qui
 éclata soudain au coin, s’éleva jusqu’au fracas sous la fenêtre et
 mourut lentement dans la distance. Presque immédiatement, suivirent
@@ -3417,8 +3083,6 @@ maisons, recevait les premières touches roses de l’aurore. Les gens qui
 fuyaient à pied ou en voiture, devenaient à chaque instant de plus en
 plus nombreux.
 
-[Illustration]
-
 --La Fumée Noire! criaient incessamment ces gens; la Fumée Noire!
 
 La contagion d’une terreur aussi unanime était inévitable. Comme mon
@@ -3458,16 +3122,6 @@ Quand mon frère commença à comprendre l’importance de toutes ces choses,
 il remonta précipitamment à sa chambre, prit tout son argent
 disponible--environ dix livres en tout--et redescendit dans la rue.
 
-[Illustration]
-
-
-
-
-[Illustration] XV
-
-LES EVENEMENTS DANS LE SURREY
-
-
 Pendant que le vicaire, l’air égaré, tenait ses discours incohérents, à
 l’ombre de la haie dans les prairies basses de Halliford, pendant que
 mon frère regardait les fugitifs arriver sans cesse par Westminster
@@ -3500,8 +3154,6 @@ avaient plus de courage. Dissimulées derrière un bois de sapins, il
 semble que le Marsien ne se soit pas attendu à les trouver là. Ils
 pointèrent leurs canons aussi délibérément que s’ils avaient été à la
 manœuvre et firent feu à une portée d’environ mille mètres.
-
-[Illustration]
 
 Les obus éclatèrent tout autour du Marsien, et on le vit faire quelques
 pas encore, chanceler et s’écrouler; tous poussèrent un cri, et avec une
@@ -3673,8 +3325,6 @@ et tombait sur le sol en forme de poussière. Sauf en ce qui concerne un
 élément inconnu, donnant un groupe de quatre lignes dans le bleu du
 spectre, on ignore encore entièrement la nature de cette substance.
 
-[Illustration]
-
 Lorsque le tumultueux soulèvement de sa dispersion était terminé, la
 fumée noire se tassait tout contre le sol, avant même sa précipitation
 en poussière, si bien qu’à cinquante pieds en l’air, sur les toits, aux
@@ -3692,8 +3342,6 @@ ciel bleu, et contre le fond des collines lointaines, une étendue
 recouverte comme d’un velours noir, avec des toits rouges, des arbres
 verts, puis, plus tard, des haies, des buissons, des granges, des
 remises, des murs voilés de noir, se dressant ici et là dans le soleil.
-
-[Illustration]
 
 Ceci se passait à Street Cobham, où la fumée noire resta jusqu’à ce
 qu’elle se fût absorbée d’elle-même dans le sol. Ordinairement, dès
@@ -3769,18 +3417,11 @@ palpable; cet étrange et horrible antagoniste enveloppant ses victimes;
 les hommes et les chevaux à peine distincts, courant et fuyant, criant
 et hennissant, tombant à terre; les hurlements de terreur;
 
-     Alors, le Marsien qui se trouvait le plus près de nous éleva son
-     tube et le déchargea, à la manière d’un canon, avec un bruit sourd
-     qui fit trembler le sol. Le Marsien qui était près de Staines lui
-     répondit. Il n’y eut ni flammes ni fumée, rien que cette lourde
-     détonation.
-
-                                                           (CHAPITRE XV)
-
-
-
-
-[Illustration]
+Alors, le Marsien qui se trouvait le plus près de nous éleva son
+tube et le déchargea, à la manière d’un canon, avec un bruit sourd
+qui fit trembler le sol. Le Marsien qui était près de Staines lui
+répondit. Il n’y eut ni flammes ni fumée, rien que cette lourde
+détonation.
 
 les canons soudain abandonnés; les hommes suffoquant et se tordant sur
 le sol, et la rapide dégringolade du cône opaque de fumée. Puis,
@@ -3790,16 +3431,6 @@ vapeur compacte cachant ses morts.
 Un peu avant l’aube, la vapeur noire se répandit dans les rues de
 Richmond, et, en un dernier effort, le gouvernement, affolé et
 désorganisé, prévenait la population de Londres de la nécessité de fuir.
-
-[Illustration]
-
-
-
-
-[Illustration] XVI
-
-LA PANIQUE
-
 
 Ainsi s’explique l’affolement qui, comme une vague mugissante, passa sur
 la plus grande cité du monde, à l’aube du lundi matin--les flots de gens
@@ -3905,8 +3536,6 @@ un troisième antagoniste le frappa entre les yeux, et l’homme qu’il
 tenait s’arracha de son étreinte et s’enfuit rapidement dans la
 direction d’où il était venu.
 
-[Illustration]
-
 A demi étourdi, il se retrouva en face de l’homme qui avait tenu la tête
 du cheval, et il aperçut la voiture s’éloignant dans le chemin, secouée
 de côté et d’autre, tandis que les deux femmes se retournaient. Son
@@ -3982,8 +3611,6 @@ entrecoupées qu’on lui répondait augmentaient son impression d’un grand
 désastre survenant à l’humanité, et enracinèrent sa conviction de
 l’immédiate nécessité de poursuivre leur fuite. Il insista vivement
 auprès de ses compagnes sur cette nécessité.
-
-[Illustration]
 
 --Nous avons de l’argent, commença la jeune femme;--elle s’arrêta court.
 
@@ -4131,8 +3758,6 @@ basses éclaboussées de sang tout frais.
 
 --Eter-nité! Eter-nité! apportait l’écho.
 
-[Illustration]
-
 Des femmes, au visage triste et hagard, piétinaient dans la foule avec
 des enfants qui criaient et qui trébuchaient; certaines étaient bien
 mises, leurs robes délicates et jolies toutes couvertes de poussière, et
@@ -4209,8 +3834,6 @@ L’un des hommes revint en courant.
 est presque moribond. C’est Lord Garrick.
 
 --Lord Garrick! répondit mon frère, le Premier Président à la Cour?
-
-[Illustration]
 
 --De l’eau? répéta l’autre.
 
@@ -4313,8 +3936,6 @@ C’était un tracas et une contusion indescriptibles. Mais dans la ville
 et au dehors, la route se bifurquait fréquemment, ce qui, en une
 certaine mesure, diminua la poussée.
 
-[Illustration]
-
 Ils prirent un chemin vers l’est à travers Hadley et de chaque côté de
 la route, en plusieurs endroits, ils trouvèrent une multitude de gens
 buvant dans les ruisseaux, et quelques-uns se battaient pour approcher
@@ -4333,30 +3954,11 @@ gens passèrent à une allure précipitée sur la route, près de l’endroit
 où ils faisaient halte, des gens fuyant des dangers inconnus et
 retournant dans la direction d’où mon frère venait.
 
-[Illustration]
-
-     Alors, avec une violente détonation et une flamme aveuglante, ses
-     tourelles, ses cheminées sautèrent. La violence de l’explosion fit
-     chanceler le Marsien, et au même instant, l’épave enflammée, lancée
-     par l’impulsion de sa propre vitesse, le frappait et le démolissait
-     comme un objet de carton.
-
-                                                           (CHAPITRE XVII)
-
-
-
-
-
-
-[Illustration]
-
-
-
-
-[Illustration] XVII
-
-LE “FULGURANT”
-
+Alors, avec une violente détonation et une flamme aveuglante, ses
+tourelles, ses cheminées sautèrent. La violence de l’explosion fit
+chanceler le Marsien, et au même instant, l’épave enflammée, lancée
+par l’impulsion de sa propre vitesse, le frappait et le démolissait
+comme un objet de carton.
 
 Si les Marsiens n’avaient eu pour but que de détruire, ils auraient pu,
 dès le lundi, anéantir toute la population de Londres pendant qu’elle se
@@ -4382,8 +3984,6 @@ mais une fuite affolée, une terreur panique gigantesque et terrible,
 sans ordre et sans but, six millions de gens sans armes et sans
 provisions, allant de l’avant à corps perdu. C’était le commencement de
 la déroute de la civilisation, du massacre de l’humanité.
-
-[Illustration]
 
 Immédiatement au-dessous de lui, l’aéronaute aurait vu, immense et
 interminable, le réseau des rues, les maisons, les églises, les squares,
@@ -4426,8 +4026,6 @@ s’écrasèrent contre une arche du pont de la Tour; les matelots et les
 mariniers durent se défendre sauvagement contre les gens qui les
 assaillirent, car beaucoup se risquèrent à descendre au long des piles
 du pont.
-
-[Illustration]
 
 Quand une heure plus tard, un Marsien apparut par delà la Tour de
 l’Horloge et disparut en aval, il ne flottait plus que des épaves depuis
@@ -4517,8 +4115,6 @@ Manche, qui se tenaient sous vapeur en une longue ligne, prêts à
 l’action, barrant l’estuaire de la Tamise, pendant toute la durée de la
 conquête marsienne, vigilants, et cependant impuissants à rien empêcher.
 
-[Illustration]
-
 A la vue de la mer, Mme Elphinstone, malgré les assurances de sa
 belle-sœur, s’abandonna au désespoir. Elle n’avait encore jamais quitté
 l’Angleterre; elle disait qu’elle aimerait mieux mourir plutôt que de se
@@ -4528,20 +4124,6 @@ Marsiens étaient de la même espèce. Pendant le voyage des deux derniers
 jours, elle était devenue de plus en plus nerveuse, apeurée et déprimée.
 Sa seule idée était de retourner à Stanmore. Il ne s’était jamais
 produit de tout cela à Stanmore. On retrouverait George à Stanmore....
-
-     Hors de l’horizon grisâtre quelque chose monta dans le ciel, monta
-     obliquement et très rapidement dans la lumineuse clarté, au-dessus
-     des nuages du ciel occidental, un objet plat, large et vaste qui
-     décrivit une courbe immense, diminua peu à peu, s’enfonça lentement
-     et s’évanouit dans le mystère gris de la nuit. Quand il eut
-     disparu, on eût dit qu’il pleuvait des ténèbres.
-
-                                                           (CHAPITRE XVII)
-
-
-
-
-[Illustration]
 
 Ils eurent les plus grandes difficultés à la faire descendre jusqu’à la
 plage, d’où bientôt mon frère réussit à attirer l’attention d’un steamer
@@ -4624,8 +4206,6 @@ structure, d’où deux cheminées se projetaient, crachant un souffle de
 fumée et de feu dans l’air. Le cuirassé “le Fulgurant” venait à toute
 vapeur au secours des navires menacés.
 
-[Illustration]
-
 Se cramponnant contre le bastingage, pour se maintenir debout sur le
 pont malgré le tangage, mon frère porta de nouveau ses regards sur les
 Marsiens: il les vit tous trois rassemblés maintenant, et tellement
@@ -4644,8 +4224,6 @@ eût envoyé immédiatement le cuirassé au fond de la mer.
 Il allait à une vitesse telle qu’en une minute il parut avoir franchi la
 moitié du chemin qui séparait le steamboat des Marsiens--masse noire qui
 diminuait contre la bande horizontale de la côte d’Essex.
-
-[Illustration]
 
 Soudain le plus avancé des Marsiens abaissa son tube et déchargea contre
 le cuirassé un de ses projectiles suffocants. Il l’atteignit à babord:
@@ -4724,8 +4302,6 @@ l’Occident. Mais on ne pouvait rien distinguer clairement. Une masse
 steamboat continuait sa route, haletant, dans une inquiétude
 interminable.
 
-[Illustration]
-
 Le soleil s’enfonça dans les nuages gris, le ciel rougeoya, puis
 s’obscurcit, l’étoile du soir tremblota dans la pénombre. C’était la
 nuit. Tout à coup, le capitaine poussa un cri et tendit le bras vers le
@@ -4735,23 +4311,6 @@ dans la lumineuse clarté, au-dessus des nuages du ciel occidental, un
 objet plat, large et vaste qui décrivit une courbe immense, diminua peu
 à peu, s’enfonça lentement et s’évanouit dans le mystère gris de la
 nuit. Quand il eut disparu, on eût dit qu’il pleuvait des ténèbres.
-
-[Illustration]
-
-
-
-
-[Illustration] LIVRE DEUXIÈME
-
-LA TERRE AU POUVOIR DES MARSIENS
-
-
-
-
-[Illustration] XVIII
-
-SOUS LE TALON
-
 
 Après avoir raconté ce qui était arrivé à mon frère, je vais reprendre
 le récit de mes propres aventures où je l’ai laissé, au moment où le
@@ -4829,16 +4388,9 @@ poussière noire. Ce linceul de cendre poudreuse me faisait penser à ce
 que j’avais lu de la destruction de Pompéi. L’esprit hanté de ces
 spectacles étranges, nous arrivâmes sans mésaventure
 
-     Le cinquième cylindre avait dû tomber au plein milieu de la maison
-     que nous avions d’abord visitée. Le bâtiment avait disparu,
-     complètement écrasé, pulvérisé et dispersé par le choc.
-
-                                                           (CHAPITRE XIX)
-
-
-
-
-[Illustration]
+Le cinquième cylindre avait dû tomber au plein milieu de la maison
+que nous avions d’abord visitée. Le bâtiment avait disparu,
+complètement écrasé, pulvérisé et dispersé par le choc.
 
 à Hampton Court, et là, nos yeux eurent un réel soulagement à trouver un
 espace vert qui avait échappé au nuage suffocant. Nous traversâmes le
@@ -4916,8 +4468,6 @@ horriblement brûlés, mais les jambes et les bottes presque intactes; et
 aussi des cadavres de chevaux, derrière une rangée de canons éventrés et
 de caissons brisés.
 
-[Illustration]
-
 Sheen paraissait avoir échappé à la destruction, mais tout y était
 silencieux et désert. Nous ne rencontrâmes là aucun cadavre, et la nuit
 était trop sombre pour nous permettre de voir dans les rues
@@ -4942,8 +4492,6 @@ cette office donnait dans une sorte de laverie, d’arrière-cuisine, où se
 trouvaient un tas de bois et un buffet qui renfermait une douzaine de
 bouteilles de vin rouge, des soupes et des poissons conservés et deux
 boîtes de biscuits.
-
-[Illustration]
 
 Nous nous assîmes dans la cuisine adjacente, demeurant dans
 l’obscurité--car nous n’osions pas même faire craquer une allumette--et
@@ -5065,16 +4613,6 @@ Il ne me répondit pas, mais dès que j’eus commencé à manger, le léger
 bruit que je faisais le décida à se remuer, et je l’entendis venir en
 rampant.
 
-[Illustration]
-
-
-
-
-[Illustration] XIX
-
-DANS LA MAISON EN RUINES
-
-
 Après avoir mangé, nous regagnâmes la laverie, et je dus alors
 m’assoupir de nouveau, car, m’éveillant tout à coup, je me trouvai seul.
 Les secousses régulières continuaient avec une persistance pénible.
@@ -5152,8 +4690,6 @@ imaginations des dessinateurs, ou les descriptions forcément imparfaites
 de témoins oculaires, peuvent difficilement se faire une idée de
 l’impression d’organismes vivants qu’elles donnaient.
 
-[Illustration]
-
 Je me rappelle les illustrations de l’une des premières brochures qui
 prétendaient donner un récit complet de la guerre. Evidemment, l’artiste
 n’avait fait qu’une étude hâtive des machines de combat et à cela se
@@ -5200,18 +4736,11 @@ cela leur était naturellement impossible à cause de l’accroissement de
 poids dû aux conditions terrestres. On peut avec raison supposer que,
 dans la planète Mars, ils se meuvent sur ces mains avec facilité.
 
-     Au centre du trou, le cylindre était déjà ouvert; sur le bord
-     opposé, parmi la terre, le gravier et les arbustes brisés, l’une
-     des grandes machines de combat des Marsiens, abandonnée par son
-     occupant, se tenait debout, raide et géante, contre le ciel du
-     soir.
-
-                                                           (CHAPITRE XIX)
-
-
-
-
-[Illustration]
+Au centre du trou, le cylindre était déjà ouvert; sur le bord
+opposé, parmi la terre, le gravier et les arbustes brisés, l’une
+des grandes machines de combat des Marsiens, abandonnée par son
+occupant, se tenait debout, raide et géante, contre le ciel du
+soir.
 
 Leur anatomie interne, comme la dissection l’a démontré depuis, était
 également simple. La partie la plus importante de leur structure était
@@ -5253,8 +4782,6 @@ qu’ils ont le foie plus ou moins bien portant ou des glandes gastriques
 plus ou moins saines. Mais les Marsiens échappaient à ces fluctuations
 organiques des sentiments et des émotions.
 
-[Illustration]
-
 Leur indéniable préférence pour les hommes, comme source de nourriture,
 s’explique en partie par la nature des restes des victimes qu’ils
 avaient amenées avec eux comme provisions de voyage. Ces êtres, à en
@@ -5268,8 +4795,6 @@ leurs cylindres, et tous avaient été tués avant d’atteindre la terre.
 Cela valut aussi bien pour eux, car le simple effort de vouloir se
 mettre debout sur le sol de notre planète aurait sans doute brisé tous
 les os de leurs corps.
-
-[Illustration]
 
 Puisque j’ai entamé cette description, je puis donner ici certains
 autres détails qui, encore que nous les ayons remarqués par la suite
@@ -5320,8 +4845,6 @@ amènerait leur diminution progressive dans les temps à venir. Le cerveau
 restait une nécessité cardinale. Une seule autre partie du corps avait
 des chances de survivre, et c’était la main, “moyen d’information et
 d’action du cerveau.”
-
-[Illustration]
 
 Beaucoup de vérités ont été dites en plaisantant, et nous possédons
 indiscutablement dans les Marsiens l’accomplissement réel de cette
@@ -5417,22 +4940,15 @@ mobile avec des mouvements circulaires dans un seul plan. Presque tous
 les joints de leurs mécanismes présentent un système compliqué de
 coulisses se mouvant sur de petits appuis et des coussinets de friction
 
-     C’était l’un de ces systèmes compliqués, qu’on a appelés depuis
-     Mains-Machines. Telle qu’elle m’apparut, elle présentait l’aspect
-     d’une sorte d’araignée métallique avec cinq jambes articulées et
-     agiles, ayant autour de son corps un nombre extraordinaire de
-     barres, de leviers articulés, et de tentacules qui touchaient et
-     prenaient. La plupart de ses bras étaient repliés, mais avec trois
-     longs tentacules elle attrapait des tringles, des plaques, des
-     barres qui garnissaient le couvercle et apparemment renforçaient
-     les parois du cylindre.
-
-                                                           (CHAPITRE XIX)
-
-
-
-
-[Illustration]
+C’était l’un de ces systèmes compliqués, qu’on a appelés depuis
+Mains-Machines. Telle qu’elle m’apparut, elle présentait l’aspect
+d’une sorte d’araignée métallique avec cinq jambes articulées et
+agiles, ayant autour de son corps un nombre extraordinaire de
+barres, de leviers articulés, et de tentacules qui touchaient et
+prenaient. La plupart de ses bras étaient repliés, mais avec trois
+longs tentacules elle attrapait des tringles, des plaques, des
+barres qui garnissaient le couvercle et apparemment renforçaient
+les parois du cylindre.
 
 superbement courbés. Pendant que nous en sommes à ces détails,
 remarquons que leurs leviers très longs étaient, dans la plupart des
@@ -5447,8 +4963,6 @@ lorsque je regardai la première fois par la fente. Elle semblait
 infiniment plus animée que les réels Marsiens, gisant plus loin en plein
 soleil, haletant, agitant vainement leurs tentacules et se remuant avec
 de pénibles efforts, après leur immense voyage à travers l’espace.
-
-[Illustration]
 
 Tandis que j’observais encore leurs mouvements affaiblis et que je
 notais chaque étrange détail de leur forme, le vicaire me rappela
@@ -5471,16 +4985,6 @@ longtemps trembler notre refuge. Tout en travaillant, il faisait
 entendre une sorte de sifflement incessant. Autant que je pus m’en
 rendre compte, la machine allait seule, sans être nullement dirigée par
 un Marsien.
-
-[Illustration]
-
-
-
-
-[Illustration] XX
-
-LES JOURS D’EMPRISONNEMENT
-
 
 L’arrivée d’une seconde machine de combat nous fit abandonner notre
 lucarne pour nous retirer dans la laverie, car nous avions peur que, de
@@ -5517,8 +5021,6 @@ fini avec leur cylindre et que, dans cette attente probablement longue,
 le moment viendrait où nous manquerions de nourriture. Il mangeait et il
 buvait par accès, faisant ainsi de gros repas à de longs intervalles, et
 il dormait fort peu.
-
-[Illustration]
 
 A mesure que les jours passaient, sa parfaite insouciance de toute
 précaution augmenta tellement notre détresse et notre danger que je dus,
@@ -5577,16 +5079,9 @@ qu’il eût atteint le rebord du talus.
 Le contraste entre les mouvements rapides et compliqués de ces appareils
 et
 
-     Je me mis à observer de près cette machine de combat, m’assurant
-     pour la première fois que l’espèce de capuchon contenait réellement
-     un Marsien.
-
-                                                           (CHAPITRE XX)
-
-
-
-
-[Illustration]
+Je me mis à observer de près cette machine de combat, m’assurant
+pour la première fois que l’espèce de capuchon contenait réellement
+un Marsien.
 
 l’inertie gauche et haletante de ceux qui les dirigeaient était des plus
 vifs, et pendant plusieurs jours je dus me répéter, sans parvenir à le
@@ -5661,8 +5156,6 @@ sentinelle semblèrent d’abord trop nombreuses. Il m’aurait, d’ailleurs,
 fallu faire tout le travail moi-même, car le vicaire ne pouvait m’être
 d’aucun secours.
 
-[Illustration]
-
 Si ma mémoire est exacte, c’est le troisième jour que je vis tuer l’être
 humain. Ce fut la seule occasion où j’aie vu réellement un Marsien
 prendre de la nourriture. Après cette expérience, j’évitai l’ouverture
@@ -5695,16 +5188,6 @@ semblait avoir pour elle seule le ciel. Un chien hurla et c’est ce bruit
 familier qui me fit écouter. Alors, j’entendis distinctement de sourdes
 détonations, comme si de gros canons avaient fait feu. J’en comptai six
 très nettes, et après un long intervalle, six autres. Et ce fut tout.
-
-[Illustration]
-
-
-
-
-[Illustration] XXI
-
-LA MORT DU VICAIRE
-
 
 Le sixième jour, j’occupai pour la dernière fois notre poste
 d’observation où bientôt je me trouvai seul. Au lieu de rester comme
@@ -5894,14 +5377,6 @@ et sous le charbon, n’osant même pas me glisser au dehors pour avoir le
 peu d’eau qui m’était si nécessaire. Ce fut le lendemain seulement, le
 onzième jour, que j’osai me risquer à chercher quelque chose à boire.
 
-
-
-
-[Illustration] XXII
-
-LE SILENCE
-
-
 Mon premier mouvement, avant d’aller dans l’office, fut de clore la
 porte de communication entre la cuisine et la laverie. Mais l’office
 était vide--les provisions avaient disparu jusqu’aux dernières bribes.
@@ -5924,15 +5399,8 @@ pluie noirâtre et boueuse. Ils me rafraîchirent néanmoins beaucoup et je
 me sentis rassuré et enhardi par ce fait qu’aucun tentacule inquisiteur
 ne suivit le bruit de la pompe.
 
-     Puis un corps lourd--je savais trop bien lequel--fut traîné sur le
-     carrelage de la cuisine jusqu’à l’ouverture.
-
-                                                           (CHAPITRE XXI)
-
-
-
-
-[Illustration]
+Puis un corps lourd--je savais trop bien lequel--fut traîné sur le
+carrelage de la cuisine jusqu’à l’ouverture.
 
 Pendant tous ces jours, divaguant et indécis, je pensai beaucoup au
 vicaire et à la façon dont il était mort.
@@ -6025,16 +5493,6 @@ clarté aveuglante. Une douce brise agitait mollement les Herbes Rouges
 qui recouvraient le moindre fragment de sol. Oh! la douceur de l’air
 frais qu’on respire!
 
-[Illustration]
-
-
-
-
-[Illustration] XXIII
-
-L’OUVRAGE DE QUINZE JOURS
-
-
 Pendant un long moment, je restai debout, les jambes vacillantes sur le
 monticule, me souciant peu de savoir si j’étais en sûreté. Dans l’infect
 repaire d’où je sortais, toutes mes pensées avaient convergé sur notre
@@ -6106,17 +5564,10 @@ avait crû. Bientôt une sorte de maladie infectieuse, due, croit-on, à
 l’action de certaines bactéries, s’empara de ces végétations. Par suite
 des principes de la sélection naturelle,
 
-     Les maisons avaient toutes été saccagées, mais aucune n’avait été
-     brûlée; parfois leurs murs s’élevaient encore jusqu’au second
-     étage, avec des fenêtres arrachées et des portes brisées. L’Herbe
-     Rouge croissait en tumulte dans leurs chambres sans toits.
-
-                                                           (CHAPITRE XXII)
-
-
-
-
-[Illustration]
+Les maisons avaient toutes été saccagées, mais aucune n’avait été
+brûlée; parfois leurs murs s’élevaient encore jusqu’au second
+étage, avec des fenêtres arrachées et des portes brisées. L’Herbe
+Rouge croissait en tumulte dans leurs chambres sans toits.
 
 toutes les plantes terrestres ont maintenant acquis une force de
 résistance contre les maladies causées par les microbes;--elles ne
@@ -6130,8 +5581,6 @@ Mon premier soin fut naturellement d’étancher ma soif. J’absorbai ainsi
 une grande quantité d’eau, et, mû par une impulsion soudaine, je
 mâchonnai quelques fragments d’Herbe Rouge. Mais les tiges étaient
 pleines d’eau
-
-[Illustration]
 
 et elles avaient un goût métallique nauséeux. L’eau était assez peu
 profonde pour me permettre d’avancer sans danger bien que l’Herbe Rouge
@@ -6192,16 +5641,6 @@ abandonnant la contrée désolée et cherchant ailleurs leur nourriture.
 Peut-être même étaient-ils maintenant en train de détruire Berlin ou
 Paris, ou bien, il pouvait se faire aussi qu’ils aient avancé vers le
 Nord...
-
-[Illustration]
-
-
-
-
-[Illustration] XXIV
-
-L’HOMME DE PUTNEY HILL
-
 
 Je passai la nuit dans l’auberge située au sommet de la côte de Putney,
 où, pour la première fois depuis que j’avais quitté Leatherhead, je
@@ -6264,15 +5703,8 @@ retour de Leatherhead je n’avais pas prié. En certaines extrémités
 désespérées, j’avais murmuré des supplications, des invocations
 fétichistes, formulant
 
-     ...les eaux de la Tamise s’étaient aussi répandues en une nappe
-     immense et peu profonde.
-
-                                                       (CHAPITRE XXIII)
-
-
-
-
-[Illustration]
+...les eaux de la Tamise s’étaient aussi répandues en une nappe
+immense et peu profonde.
 
 mes prières comme les païens murmurent des charmes conjurateurs. Mais
 cette fois je priais réellement, implorant avec ferveur la Divinité,
@@ -6512,19 +5944,12 @@ aménagés dans ce but. C’est là ce qu’ils vont entreprendre avant
 longtemps. Car, comprenez-vous? ils n’ont encore rien commencé, en
 somme.
 
-     Il nous faudra mener une vie souterraine, comprenez-vous? J’ai
-     pensé aux égouts. Naturellement ceux qui ne les connaissent pas se
-     figurent des endroits horribles; mais sous le sol de Londres, il y
-     en a pendant des milles et des milles de longueur, des centaines de
-     milles; quelques jours de pluie sur Londres abandonné en feront des
-     logis agréables et propres.
-
-                                                           (CHAPITRE XXIV)
-
-
-
-
-[Illustration]
+Il nous faudra mener une vie souterraine, comprenez-vous? J’ai
+pensé aux égouts. Naturellement ceux qui ne les connaissent pas se
+figurent des endroits horribles; mais sous le sol de Londres, il y
+en a pendant des milles et des milles de longueur, des centaines de
+milles; quelques jours de pluie sur Londres abandonné en feront des
+logis agréables et propres.
 
 --Rien commencé? m’écriai-je.
 
@@ -6704,8 +6129,6 @@ surveillance afin de pouvoir s’ébattre en plein air, quand les Marsiens
 n’y seraient pas--jouer au cricket, par exemple. C’est comme cela qu’on
 sauvera la race.
 
-[Illustration]
-
 N’est-ce pas? Tout cela est possible? Mais sauver la race n’est rien;
 comme je l’ai dit, ça consiste à devenir des rats. Le principal, c’est
 de conserver notre savoir et de l’augmenter encore. Alors, c’est là que
@@ -6719,17 +6142,10 @@ connaissances scientifiques--les étendre encore. On observerait ces
 Marsiens. Quelques-uns d’entre nous pourraient aller les espionner,
 quand ils auraient tout organisé; j’irai peut-être moi-même. Il
 
-     ... où se pressa bientôt une multitude d’ivrognes en haillons,
-     hommes et femmes, qui dansèrent et hurlèrent jusqu’à l’aurore.
-     Quand le jour parut, ils aperçurent une machine de combat marsienne
-     qui, toute droite dans l’ombre, les observait avec curiosité.
-
-                                                           (CHAPITRE XXIV)
-
-
-
-
-[Illustration]
+... où se pressa bientôt une multitude d’ivrognes en haillons,
+hommes et femmes, qui dansèrent et hurlèrent jusqu’à l’aurore.
+Quand le jour parut, ils aperçurent une machine de combat marsienne
+qui, toute droite dans l’ombre, les observait avec curiosité.
 
 faudrait se laisser attraper, pour mieux les approcher je veux dire.
 Mais le grand point, c’est de laisser les Marsiens tranquilles; ne
@@ -6853,8 +6269,6 @@ effrayés pour s’enfuir.
 Incidents burlesques et tragiques d’une époque troublée qu’aucun
 historien ne pourra relater fidèlement!
 
-[Illustration]
-
 Par une suite de questions, je le ramenai à ses plans grandioses. Son
 enthousiasme le reprit. Il exposa, avec tant d’éloquence, la possibilité
 de capturer une machine de combat que cette fois encore je le crus à
@@ -6871,8 +6285,6 @@ généreux; puis, le repas terminé, il sortit et revint quelques moments
 après avec d’excellents cigares. Nous en allumâmes chacun un et son
 optimisme devint éblouissant. Il inclinait à considérer ma venue comme
 une merveilleuse bonne fortune.
-
-[Illustration]
 
 --Il y a du champagne dans la cave voisine, dit-il.
 
@@ -6919,14 +6331,7 @@ de moi, j’aperçus une étrange clarté, une sorte de fluorescence, d’un
 pâle violet pourpre, que la brise nocturne faisait frissonner. Pendant
 un
 
-     Londres mort.
-
-                                                           (CHAPITRE XXV)
-
-
-
-
-[Illustration]
+Londres mort.
 
 moment, je ne pus comprendre quelle était la cause de cette faible
 irradiation, depuis je pensai qu’elle était produite par l’Herbe Rouge.
@@ -6950,16 +6355,6 @@ me semblait-il, j’aurais de meilleures chances d’apprendre ce que
 faisaient les Marsiens et quel était le sort de mes semblables. Quand la
 lune tardive se leva, j’étais encore sur le toit.
 
-[Illustration]
-
-
-
-
-[Illustration] XXV
-
-LONDRES MORT
-
-
 Lorsque j’eus quitté l’artilleur, je descendis la colline, et, suivant
 la grand’rue, je traversai le pont qui mène à Lambeth. Les végétations
 tumultueuses de l’Herbe Rouge le rendaient alors presque impraticable,
@@ -6973,8 +6368,6 @@ poussière noire, sale comme un ramoneur, et de plus ivre à ne pouvoir
 ni se tenir ni parler. Je ne pus tirer de lui que des injures et des
 menaces, et s’il n’avait pas eu une physionomie aussi brutale, je serais
 resté avec lui.
-
-[Illustration]
 
 Au long de la route, à partir du pont, il y avait partout une couche de
 poussière noire qui, dans Fulham, devenait fort épaisse. Une effrayante
@@ -7047,13 +6440,9 @@ chose qu’une brume enfumée.
 semblait-il, des environs de Regent’s Park. Ce cri navrant agit bientôt
 sur mon esprit et la
 
-[Illustration]
-
 surexcitation qui m’avait soutenu passa; cette lamentation s’empara de
 tout mon être et je me sentis absolument épuisé, les pieds endoloris, et
 de nouveau, maintenant, torturé par la faim et la soif.
-
-[Illustration]
 
 Il devait être plus de midi. Pourquoi errais-je seul dans cette cité
 morte? Pourquoi vivais-je seul quand tout Londres, enveloppé d’un noir
@@ -7152,8 +6541,6 @@ Hill. Au sommet de la colline, se dressant jusqu’aux étoiles qui
 pâlissaient, était un troisième Marsien, debout et immobile comme les
 autres.
 
-[Illustration]
-
 Une volonté insensée me poussait. Je voulais en finir, dussé-je y
 rester, et je voulais même m’épargner la peine de me tuer de ma propre
 main. Je m’avançai insouciant vers le titan; comme j’approchais et que
@@ -7206,14 +6593,7 @@ a payé, au prix de millions et de millions de morts, sa possession
 héréditaire du globe terrestre: il lui appartient contre tous les
 intrus, et il serait
 
-     ... je trouvai soudain les restes d’une Machine à Mains.
-
-                                                           (CHAPITRE XXV)
-
-
-
-
-[Illustration]
+... je trouvai soudain les restes d’une Machine à Mains.
 
 encore à lui, même si les Marsiens étaient dix fois plus puissants. Car
 l’homme ne vit ni ne meurt en vain.
@@ -7304,16 +6684,6 @@ Puis, avec une force irrésistible, mes pensées revinrent vers moi, vers
 ma femme, vers l’ancienne existence d’espoir et de tendresse qui avait
 cessé pour toujours...
 
-[Illustration]
-
-
-
-
-[Illustration] XXVI
-
-LE DÉSASTRE
-
-
 Voici maintenant la chose la plus étrange de mon récit, bien qu’elle ne
 soit pas sans doute absolument surprenante. Je me rappelle clairement,
 froidement, vivement, tout ce que je fis ce jour-là, jusqu’au moment où
@@ -7355,8 +6725,6 @@ reconnaissance, ces gens s’encombrèrent néanmoins de moi, me donnèrent
 asile et me protégèrent contre ma propre fureur. Apparemment, j’avais
 dû, pendant ce laps de temps, leur conter des bribes de mon histoire.
 
-[Illustration]
-
 Quand mon égarement eut cessé, ils m’annoncèrent, avec beaucoup de
 ménagements, ce qu’ils avaient appris du sort de Leatherhead. Deux jours
 après mon emprisonnement, la ville, avec tous ses habitants, avait été
@@ -7364,16 +6732,9 @@ détruite par un Marsien, qui l’avait saccagée de fond en comble,
 semblait-il, sans aucune provocation, comme un gamin bouleverserait une
 fourmilière, pour le simple caprice de faire étalage de sa force.
 
-     Toute la ville semblait me regarder avec des yeux de spectre. Les
-     fenêtres des maisons blanches étaient des orbites vides dans des
-     crânes, et mon imagination m’entourait de mille ennemis silencieux.
-
-                                                           (CHAPITRE XXV)
-
-
-
-
-[Illustration]
+Toute la ville semblait me regarder avec des yeux de spectre. Les
+fenêtres des maisons blanches étaient des orbites vides dans des
+crânes, et mon imagination m’entourait de mille ennemis silencieux.
 
 Je me trouvais sans famille et sans foyer, et ils furent très bons pour
 moi. J’étais seul et triste et ils me supportèrent avec indulgence. Je
@@ -7442,8 +6803,6 @@ détruite, et des centaines d’ouvriers--commis sans emploi et gens de
 magasins--travaillaient à côté des terrassiers ordinaires, et nous fûmes
 encore cahotés sur une voie provisoire, hâtivement établie.
 
-[Illustration]
-
 Tout au long de la ligne, l’aspect de la contrée était désolé et
 bouleversé. Wimbledon avait particulièrement souffert; Walton, grâce à
 ses bois de sapins qui n’avaient pas été incendiés, parut être la
@@ -7460,8 +6819,6 @@ coupée d’ombres pourpres et très pénibles à l’œil. Le regard, avec un
 infini soulagement, se portait des grès roussâtres et des rouges
 lugubres du premier plan, vers la douceur verte et bleue des collines de
 l’est.
-
-[Illustration]
 
 A Woking, la ligne était encore en réparation. Je dus descendre à
 Byfleet et prendre la route de Maybury, en passant par l’endroit où
@@ -7529,30 +6886,13 @@ un cri étouffé.
 Elle porta la main à sa gorge et chancela. Je fis un pas en avant et la
 reçus dans mes bras.
 
-[Illustration]
-
-     ... je pus voir l’intérieur de la redoute; c’était un vaste espace
-     où gisaient, en désordre, des mécanismes gigantesques, des monceaux
-     énormes de matériaux et des abris d’une étrange sorte. Puis, épars
-     çà et là, quelques-uns dans leurs Machines de Guerre renversées ou
-     dans les Machines à Mains, rigides maintenant, et une douzaine
-     d’autres silencieux, roides et alignés, étaient les
-     Marsiens--«morts»...
-
-                                                           (CHAPITRE XXV)
-
-
-
-
-[Illustration]
-
-
-
-
-[Illustration] XXVII
-
-ÉPILOGUE
-
+... je pus voir l’intérieur de la redoute; c’était un vaste espace
+où gisaient, en désordre, des mécanismes gigantesques, des monceaux
+énormes de matériaux et des abris d’une étrange sorte. Puis, épars
+çà et là, quelques-uns dans leurs Machines de Guerre renversées ou
+dans les Machines à Mains, rigides maintenant, et une douzaine
+d’autres silencieux, roides et alignés, étaient les
+Marsiens--«morts»...
 
 En terminant mon récit, je regrette de n’avoir pu contribuer qu’en une
 si faible mesure à jeter quelque clarté sur maintes questions
@@ -7588,8 +6928,6 @@ n’avait naturellement pas pu examiner l’écume brunâtre qui descendit la
 Tamise après la destruction de Shepperton, et on n’aura plus l’occasion
 de le faire.
 
-[Illustration]
-
 J’ai déjà donné les résultats de l’examen anatomique des Marsiens,
 autant qu’un tel examen était possible sur les restes laissés par les
 chiens errants. Tout le monde a pu voir le magnifique spécimen, presque
@@ -7604,17 +6942,10 @@ n’a pas accordé suffisamment d’attention à cet aspect du problème. A
 présent, la planète Mars est en conjonction, mais pour moi, à chaque
 retour de son opposition, je m’attends à une nouvelle
 
-     ... les formidables engins, d’une puissance et d’une complexité si
-     grandes et si surprenantes, si peu terrestres par leurs formes
-     tortueuses et bizarres, montaient, sinistres, étranges et vagues,
-     hors des ténèbres, vers la lumière.
-
-                                                           (CHAPITRE XXV)
-
-
-
-
-[Illustration]
+... les formidables engins, d’une puissance et d’une complexité si
+grandes et si surprenantes, si peu terrestres par leurs formes
+tortueuses et bizarres, montaient, sinistres, étranges et vagues,
+hors des ténèbres, vers la lumière.
 
 tentative. En tous les cas, nous devrons être prêts. Il me semble qu’il
 serait possible de déterminer exactement la position du canon avec
@@ -7677,8 +7008,6 @@ peut aussi, d’ailleurs, que la destruction des Marsiens ne soit qu’un
 court répit. Peut-être est-ce à eux et nullement à nous que l’avenir est
 destiné.
 
-[Illustration]
-
 Il me faut avouer que la détresse et les dangers de ces moments ont
 laissé, dans mon esprit, une constante impression de doute et
 d’insécurité. J’écris, dans mon bureau, à la clarté de la lampe, et
@@ -7706,15 +7035,8 @@ l’immense province de maisons, vagues et bleuâtres, à travers un voile
 de fumée et de brume, disparaissant au loin dans le ciel bas et sombre,
 de voir
 
-     ... en une seule semaine l’examen des mécanismes marsiens avait
-     donné des résultats surprenants.
-
-                                                           (CHAPITRE XXVI)
-
-
-
-
-[Illustration]
+... en une seule semaine l’examen des mécanismes marsiens avait
+donné des résultats surprenants.
 
 les gens se promener dans les allées bordées de fleurs, au flanc de la
 colline, d’observer les curieux venant voir la machine marsienne, qu’on
@@ -7725,833 +7047,3 @@ silencieux, à l’aube de ce dernier grand jour...
 Et le plus étrange de tout, encore, est de penser, tandis que j’ai dans
 la mienne sa main mignonne, que ma femme m’a compté, et que je l’ai
 comptée, elle aussi, parmi les morts.
-
-[Illustration: FIN]
-
-
-
-
-TABLE DES MATIÈRES
-
-
-LIVRE PREMIER
-
-L’ARRIVÉE DES MARSIENS
-
-                                                                   Pages
-
-CHAPITRE I.--A la veille de la guerre                                  7
-
-Id. II.--Le Météore                                                   15
-
-Id. III.--Sur la lande                                                21
-
-Id. IV.--Le cylindre se dévisse                                       26
-
-Id. V.--Le Rayon Ardent                                               31
-
-Id. VI.--Le Rayon Ardent sur la route de Chobham                      37
-
-Id. VII.--Comment je rentrai chez moi                                 40
-
-Id. VIII.--Vendredi soir                                              46
-
-Id. IX.--La lutte commence                                            51
-
-Id. X.--En pleine mêlée                                               58
-
-Id. XI.--A la fenêtre                                                 65
-
-Id. XII.--Ce que je vis de la destruction de Weybridge et de
-Shepperton                                                            71
-
-Id. XIII.--Par quel hasard je rencontrai le vicaire                   85
-
-Id. XIV.--A Londres                                                   91
-
-Id. XV.--Les événements dans le Surrey                               104
-
-Id. XVI.--La Panique                                                 114
-
-Id. XVII.--Le “Fulgurant”                                            127
-
-LIVRE DEUXIÈME
-
-LA TERRE AU POUVOIR DES MARSIENS
-
-                                                                   Pages
-
-CHAPITRE XVIII.--Sous le talon                                       141
-
-Id. XIX.--Dans la maison en ruines                                   150
-
-Id. XX.--Les jours d’emprisonnement                                  162
-
-Id. XXI.--La mort du vicaire                                         170
-
-Id. XXII.--Le silence                                                174
-
-Id. XXIII.--L’ouvrage de quinze jours                                179
-
-Id. XXIV.--L’homme de Putney Hill                                    185
-
-Id. XXV.--Londres mort                                               208
-
-Id. XXVI.--Le désastre                                               219
-
-Id. XXVII.--Épilogue                                                 229
-
-
-
-
-ILLUSTRATIONS HORS TEXTE
-
-
-                                                                   Pages
-
-LIVRE PREMIER.--L’arrivée des Marsiens                                 5
-
-CHAPITRE I.
-
-Le spectroscope indiqua une masse de gaz enflammés...                 11
-
-CHAPITRE II.
-
-Le Météore                                                            17
-
-CHAPITRE III.
-
-La Chose                                                              23
-
-CHAPITRE IV.
-
-Le cylindre ouvert                                                    29
-
-CHAPITRE V.
-
-Le Rayon Ardent                                                       35
-
-Le Rayon Ardent sur la lande                                          41
-
-CHAPITRE VI.
-
-Le Rayon Ardent sur la route de Chobham                               47
-
-CHAPITRE VIII.
-
-Tout au long de la nuit, les Marsiens...                              53
-
-CHAPITRE X.
-
-Visions terrifiantes                                                  63
-
-CHAPITRE XI.
-
-Ce bouclier se dressa sur trois pieds...                              73
-
-CHAPITRE XII.
-
-Touché!                                                               83
-
-Le combat dans la rivière                                             93
-
-CHAPITRE XV.
-
-La Fumée Noire                                                       111
-
-CHAPITRE XVII.
-
-Le “Fulgurant”                                                       125
-
-La Machine Volante                                                   131
-
-LIVRE DEUXIÈME.--La terre au pouvoir des Marsiens                    139
-
-CHAPITRE XVIII
-
-Le cinquième cylindre                                                143
-
-CHAPITRE XIX
-
-Le camp des Marsiens                                                 153
-
-La Machine à Mains                                                   159
-
-CHAPITRE XX
-
-En observation                                                       165
-
-CHAPITRE XXI
-
-La mort du vicaire                                                   175
-
-CHAPITRE XXII
-
-L’Herbe Rouge                                                        181
-
-CHAPITRE XXIII
-
-L’Inondation                                                         187
-
-CHAPITRE XXIV
-
-Les égouts                                                           193
-
-Scènes dans Regent Street et Piccadilly                              199
-
-CHAPITRE XXV
-
-Londres mort                                                         205
-
-Les restes d’une Machine à Mains                                     215
-
-Hallucination                                                        221
-
-La redoute des Marsiens                                              227
-
-Les Géants morts                                                     231
-
-CHAPITRE XXVI
-
-Après le désastre                                                    235
-
-
-
-
-ILLUSTRATIONS DANS LE TEXTE
-
-
-                                                                   Pages
-
-CHAPITRE I.
-
-Dans l’observatoire. (Entête)                                          7
-
-Le projectile. (Finale)                                               14
-
-CHAPITRE II.
-
-A mon bureau. (Entête)                                                15
-
-Le vendeur de journaux. (Finale)                                      20
-
-CHAPITRE III.
-
-Sur la lande. (Entête)                                                21
-
-Des gamins s’amusaient à jeter des pierres... (Finale)                25
-
-CHAPITRE IV.
-
-Première panique. (Entête)                                            26
-
-Le garçon boutiquier. (Finale)                                        28
-
-CHAPITRE V.
-
-Le Rayon Ardent. (Entête)                                             31
-
-La députation                                                         32
-
-Premières victimes. (Finale)                                          34
-
-CHAPITRE VI.
-
-Le Miroir tournant. (Entête)                                          37
-
-Inconscience                                                          38
-
-La Fuite. (Finale)                                                    39
-
-CHAPITRE VII.
-
-Visions. (Entête)                                                     40
-
-Dernier dîner. (Finale)                                               45
-
-CHAPITRE VIII.
-
-Le travail des Marsiens. (Entête)                                     46
-
-La chute du second cylindre. (Finale)                                 50
-
-CHAPITRE IX.
-
-La lutte commence. (Entête)                                           51
-
-Le dogcart                                                            57
-
-CHAPITRE X.
-
-En pleine mêlée. (Entête)                                             58
-
-Mon retour                                                            62
-
-CHAPITRE XI.
-
-Le train en flammes. (Entête)                                         65
-
-Le récit de l’artilleur                                               68
-
-Exploit de Marsien. (Finale)                                          70
-
-CHAPITRE XII.
-
-Touché! (Entête)                                                      71
-
-Trente mètres de haut, trois jambes, mon lieutenant                   75
-
-Un vieux bonhomme ridé, avec une immense malle                        76
-
-... s’avançaient avec une porte de cabane...                          77
-
-... emportant les débris de leur camarade. (Finale)                   82
-
-CHAPITRE XIII.
-
-Le vicaire. (Entête)                                                  85
-
-Je me remis à pagayer...                                              86
-
-Nous ferons mieux de suivre ce sentier. (Finale)                      90
-
-CHAPITRE XIV.
-
-A Londres. (Entête)                                                   91
-
-... détruit la gare de Woking                                         95
-
-Des trucs portant d’immenses canons...                                97
-
-Les dernières nouvelles                                               98
-
-Un homme en habit de travail...                                       99
-
-Toutes les cloches d’église...                                       101
-
-Que diable arrive-t-il?                                              102
-
-La propriétaire, négligemment enveloppée... (Finale)                 103
-
-CHAPITRE XV.
-
-La Fumée Noire. (Entête)                                             104
-
-Ils firent feu à cent mètres...                                      105
-
-Ces projectiles se brisaient en touchant le sol                      108
-
-L’homme qui échappa à la suffocation                                 109
-
-Suffocant et se tordant sur le sol. (Finale)                         113
-
-CHAPITRE XVI.
-
-La panique. (Entête)                                                 114
-
-Elle fit feu à six mètres...                                         116
-
-Un homme en habit de soirée...                                       118
-
-Eternité! Eternité!                                                  120
-
-Un homme barbu à face d’oiseau de proie...                           122
-
-Les deux femmes blotties sur le siège...                             123
-
-L’avare écrasé. (Finale)                                             124
-
-CHAPITRE XVII.
-
-Le “Fulgurant”. (Entête)                                             127
-
-Quelque plume monstrueuse avait laissé tomber...                     128
-
-... détruisirent les voies du chemin de fer                          129
-
-Une multitude de barques de pêche...                                 130
-
-Des paquebots vomissaient des nuages...                              134
-
-Le “Fulgurant” venait à toute vapeur                                 135
-
-Le capitaine tendit le bras... (Finale)                              137
-
-CHAPITRE XVIII.
-
-Là s’élevait une maison blanche... (Entête)                          141
-
-Le Marsien les ramassa un par un...                                  146
-
-Le plafond s’abattit sur nous....                                    147
-
-Je l’entendis venir en rampant. (Finale)                             149
-
-CHAPITRE XIX.
-
-La Machine à Mains. (Entête)                                         150
-
-Le Marsien                                                           152
-
-Ils prenaient le sang frais d’autres créatures...                    155
-
-Ces êtres étaient bipèdes                                            156
-
-... devaient ignorer les émotions tumultueuses...                    157
-
-Composée de disques dans une gaîne...                                159
-
-Quand je revins à mon poste... (Finale)                              159
-
-CHAPITRE XX.
-
-C’était un objet ayant la forme... (Entête)                          162
-
-Mais c’était une de ces faibles créatures...                         163
-
-C’était un homme d’âge moyen...                                      168
-
-Les hommes comestibles. (Finale)                                     169
-
-CHAPITRE XXI.
-
-La mort du vicaire. (Entête)                                         170
-
-CHAPITRE XXII.
-
-Le silence. (Entête)                                                 174
-
-L’Herbe Rouge. (Finale)                                              178
-
-CHAPITRE XXIII.
-
-L’ouvrage de quinze jours. (Entête)                                  179
-
-... en m’aidant des villas en ruines...                              183
-
-L’Herbe Rouge. (Finale)                                              184
-
-CHAPITRE XXIV.
-
-Ce souvenir... me hanta. (Entête)                                    185
-
-L’homme rat                                                          198
-
-Il revint avec d’excellents cigares...                               203
-
-Je trouvai ces jeux extrêmement intéressants                         204
-
-J’étais encore sur le toit. (Finale)                                 207
-
-CHAPITRE XXV.
-
-Londres mort. (Entête)                                               208
-
-... le rendaient presque impraticable                                209
-
-L’abandon et le silence...                                           211
-
-Une odeur de sinistre augure...                                      212
-
-Un second Marsien, debout et silencieux...                           213
-
-La mort des Marsiens. (Finale)                                       218
-
-CHAPITRE XXVI.
-
-Le désastre. (Entête)                                                219
-
-... me protégèrent contre ma propre fureur...                        220
-
-L’examen des mécanismes marsiens...                                  224
-
-Je regardai ma maison                                                225
-
-Je suis venue... dit-elle... (Finale)                                226
-
-CHAPITRE XXVII.
-
-Après le désastre. (Entête)                                          229
-
-L’examen anatomique des Marsiens...                                  230
-
-... la machine marsienne qu’on avait laissée là                      234
-
-Fin                                                                  237
-
-            Cet ouvrage, gravé et imprimé dans les
-            Établissements L. VANDAMME & Co,
-            à Jette lez-Bruxelles, fut achevé le
-            10 Mai mil neuf cent six
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of La guerre des mondes, by H. G.  Wells
-
-*** END OF THIS PROJECT GUTENBERG EBOOK LA GUERRE DES MONDES ***
-
-***** This file should be named 60656-0.txt or 60656-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/6/0/6/5/60656/
-
-Produced by Claudine Corbasson, Chuck Greif and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/American Libraries.)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
