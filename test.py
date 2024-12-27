@@ -1,6 +1,6 @@
 import unittest
-from levenshtein import levenshtein
-from translate import deepl_translate, google_translate
+from src.metrics import levenshtein
+from src.translate import deepl_translate, google_translate
 
 class TestLev(unittest.TestCase):
     def test_one(self):

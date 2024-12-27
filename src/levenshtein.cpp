@@ -1,4 +1,3 @@
-// from numpy import zeros
 #include <iostream>
 #include <cstring>
 #include <string>
@@ -35,7 +34,7 @@ static vector<string> split(const char* s){
     return res;
 }
 
-// to be called on two nonzero sentences
+// to be called on two nonzero paragraphs
 // this implementation measures the lev distance by word, not by character
 // ie. levenshtein("hello jordan","hello meghan") = 1
 extern "C" __declspec(dllexport) int levenshtein(const char* arg1, const char* arg2) {

@@ -1,11 +1,10 @@
-from translate import deepl_translate
-from translate import google_translate
+from src.translate import deepl_translate, google_translate
 from tqdm import tqdm
 import sys
 import pandas as pd
 
 # preprocess the English text
-english_text = open('full-text.txt', encoding="utf-8").read()
+english_text = open('../data/full-text.txt', encoding="utf-8").read()
 english_text = english_text.replace("\n\n", "§") # define paragraphs
 english_text = english_text.replace('"','')
 english_text = english_text.replace('\n',' ')
@@ -14,7 +13,7 @@ english_text = english_text.replace('\n',' ')
 english_paragraphs = english_text.split("§")
 
 # preprocess french text
-french_text = open('full-text-fr.txt', encoding="utf-8").read()
+french_text = open('../data/full-text-fr.txt', encoding="utf-8").read()
 french_text = french_text.replace("\n\n", "§") # define paragraphs
 french_text = french_text.replace('"','')
 french_text = french_text.replace('«','')
@@ -41,4 +40,4 @@ paragraphs = pd.DataFrame({
     "google paragraphs":google_paragraphs,
     "human-translated paragraphs":human_paragraphs
 })
-paragraphs.to_csv("paragraphs.csv", encoding='utf-8', index=False)
+paragraphs.to_csv("../data/paragraphs.csv", encoding='utf-8', index=False)

@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-from levenshtein import levenshtein
+from src.metrics import levenshtein
 from tqdm import tqdm
 import sys
 
@@ -9,7 +9,7 @@ def preprocess(s):
     return s.lower().replace(".","").replace("?","").replace("!","").replace(",","").replace(":","").replace(";","").replace("  "," ")
 
 # read the data from the array
-paragraphs = pd.read_csv("paragraphs.csv")
+paragraphs = pd.read_csv("../data/paragraphs.csv")
 english_paragraphs = paragraphs.iloc[:,0]
 deepl_paragraphs = paragraphs.iloc[:,1]
 google_paragraphs = paragraphs.iloc[:,2]
