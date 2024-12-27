@@ -5,34 +5,37 @@ from levenshtein import levenshtein
 from tqdm import tqdm
 import sys
 
-sentences = pd.read_csv("sentences.csv")
-deepl_sentences = sentences.iloc[:,1]
-google_sentences = sentences.iloc[:,2]
+paragraphs = pd.read_csv("paragraphs.csv")
+deepl_paragraphs = paragraphs.iloc[:,1]
+google_paragraphs = paragraphs.iloc[:,2]
+human_translated_paragraphs = paragraphs.iloc[:,3]
 
-#all distances measured between deepl's translation and google's translation
+# distances measured between (deepl's translation or google's translation) and the human translation
 
 #this array keeps track of how much the two softwares differ
-distances = np.array([levenshtein(deepl_sentences[0],google_sentences[0])])
+deepl_distances = np.array([])
+google_distances = np.array([])
 
-#this array keeps the average number of words
-total_words = (len(deepl_sentences[0].split(" ")) + len(google_sentences[0].split(" ")))/2
 
-# distances = np.vectorize(levenshtein_fast)(deepl_sentences, google_sentences)
+# deepl_distances = np.vectorize(levenshtein)(deepl_sentences, human_translated_sentences)
+# google_distances = np.vectorize(levenshtein)(deepl_sentences, human_translated_sentences)
 
 #compare the rest of the text
-for i in tqdm (range(1, len(deepl_sentences)), colour="green", desc="Comparing Sentences...", file=sys.stdout):
+for i in tqdm (range(0, len(deepl_paragraphs)), colour="green", desc="Comparing Paragraphs...", file=sys.stdout):
     try:
-        distances = np.append(distances, levenshtein(deepl_sentences[i],google_sentences[i]))
-        total_words = np.append(total_words, (len(deepl_sentences[i].split(" ")) + len(google_sentences[i].split(" ")))/2)
+        deepl_distances = np.append(deepl_distances, levenshtein(deepl_paragraphs[i],human_translated_paragraphs[i]))
+        google_distances = np.append(google_distances, levenshtein(google_paragraphs[i],human_translated_paragraphs[i]))
     except Exception as e:
         pass
 
 # computing statistical results
-print("Average Levenshtein distance between Google translate and DeepL:", np.mean(distances))
-print("Average Levenshtein distance per word:", np.mean(distances/total_words))
+print("Average Levenshtein distance between Google Translate and the Human Translation:", np.mean(google_distances))
+print("Average Levenshtein distance between DeepL and the Human Translation:", np.mean(deepl_distances))
 
 # Plot a comparison of deepl and google
-plt.title("Comparison of DeepL and Google")
-plt.plot(distances, color=(0,0.7,0.7))
-plt.ylabel("distance")
+plt.title("Comparison of DeepL and Google Translation")
+plt.plot(deepl_distances, label="DeepL", color="blue")
+plt.plot(google_distances, label="Google", color="cyan")
+plt.ylabel("levenshtein distance")
+plt.legend()
 plt.show()

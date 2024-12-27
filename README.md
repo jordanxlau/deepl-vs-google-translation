@@ -13,7 +13,7 @@ All quotation marks have been removed from the text, as they caused encoding iss
 
 ## Running the Experiment
 
-The text is pre-translated in `main.py` and saved in `sentences.csv`. You need a deepl auth key for this.
+The text is pre-translated in `preprocessing.py` and saved in `sentences.csv`. You need a deepl auth key for this.
 
 To run the data analysis for yourself:
 ```
