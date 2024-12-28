@@ -1,9 +1,9 @@
 import unittest
-from src.metrics import levenshtein
+from src.metrics import levenshtein, sentiment
 from src.translate import deepl_translate, google_translate
 
-class TestLev(unittest.TestCase):
-    def test_one(self):
+class TestCases(unittest.TestCase):
+    def test_lev_english(self):
         self.assertEqual(levenshtein("levenshtein distance","levenshtein distance"), 0)
         self.assertEqual(levenshtein("hello jordan","hello meghan"), 1)
         self.assertEqual(levenshtein("he is","she is"), 1)
@@ -12,7 +12,7 @@ class TestLev(unittest.TestCase):
         self.assertEqual(levenshtein("seventeen different people","different"), 2)
         self.assertEqual(levenshtein("ten terrible tantrums on tuesday","five feverish fits on friday"), 4)
     
-    def test_two(self):
+    def test_lev_french(self):
         self.assertEqual(levenshtein("était","etait"),1)
         self.assertEqual(levenshtein("il s'appelle","il se appelle"),2)
         self.assertEqual(levenshtein("il s'appelle","il appelle"),1)
@@ -20,12 +20,15 @@ class TestLev(unittest.TestCase):
         self.assertEqual(levenshtein("ce sont les traductions","les traductions sont là"), 4)
         self.assertEqual(levenshtein("j'ai 585", "j'en ai 585"), 2)
 
-class TestTranslate(unittest.TestCase):
-    def test_five(self):
+    def test_sentiment(self):
+        self.assertTrue(sentiment("I love you!") > 0.98)
+        self.assertTrue(sentiment("This sucks!") < -0.98)
+
+    def test_deepl(self):
         self.assertEqual(deepl_translate("Hello"),"Bonjour")
         self.assertEqual(deepl_translate("Yes"),"Oui")
 
-    def test_six(self):
+    def test_google(self):
         self.assertEqual(google_translate("Hello"),"Bonjour")
         self.assertEqual(google_translate("Yes"),"Oui")
 
