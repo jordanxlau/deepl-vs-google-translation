@@ -26,7 +26,7 @@ class TestCases(unittest.TestCase):
         self.assertEqual(round(meteor("the cat sat on the mat","the cat was sat on the mat"), 4), 0.9836)
 
     def test_meteor_french(self):
-        self.assertEqual(round(meteor("le chat est sur le tapis","sur le tapis est le cat"), 4), 1)
+        self.assertEqual(round(meteor("le chat est sur le tapis","sur le tapis est le chat"), 4), 1)
         self.assertEqual(round(meteor("le chat est sur le tapis","le chat est sur le tapis"), 4), 1)
         self.assertEqual(round(meteor("le chat est sur le tapis","le chat il est sur le tapis"), 4), 0.9836)
 
