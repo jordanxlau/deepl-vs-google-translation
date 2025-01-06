@@ -2,12 +2,23 @@
 
 ## Introduction
 This study is a personal project that compares Google’s Neural Machine Translation with DeepL, a small German startup claiming to have outdone the tech giant in terms of the accuracy of its machine translation software.
-The main metric used is levenshtein distance. I implement the dynamic programming version from [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance).
+
+Specifically, this study looks at English to French translation.
+
+## Metrics
+1. Levenshtein distance
+
+I implement the dynamic programming version from [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
 ![](images/levenshtein.png)
 
-I also modify the implementation such that it measures the distance by word, not by character.
+I modify the implementation such that it measures the distance by word, not by character.
 
+2. METEOR.
+
+This metric was originally introduced in 2005 by [Banerjee & Lavie](https://aclanthology.org/W05-0909.pdf). For now, I do not include the penalty for word order, and simply computed the weighted harmonic mean.
+
+## Dataset
 The text being translated is the prose of HG Wells' War of the Worlds, Book 1. 🚀 The French Translation is by Henry-D Davray.
 Both text copies were retrieved from Project Gutenberg.
 
