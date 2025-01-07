@@ -59,7 +59,7 @@ plt.plot(google_distances/num_words, label="Google", color="cyan")
 plt.ylabel("Levenshtein distance (per English word)")
 plt.xlabel(
     "Mean distance between DeepL and Google Translate"
-    + str(np.mean(distances))
+    + str(np.mean(distances/num_words))
     + "\nMean distance between DeepL and reference Translation:"
     + str(np.mean(deepl_distances/num_words))
     + "\nMean distance between Google Translate and reference Translation:"
