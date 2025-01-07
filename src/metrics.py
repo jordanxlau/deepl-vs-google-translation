@@ -1,5 +1,9 @@
 import ctypes
 import os
+from transformers import BertTokenizer
+
+# initialize a tokenizer
+bert = BertTokenizer.from_pretrained("bert-base-cased")
 
 # Load the DLLs
 meteor_dll = ctypes.CDLL(os.path.dirname(__file__) + "\\meteor.dll")
@@ -16,20 +20,24 @@ def levenshtein(s,t):
     # Call the levenshtein distance function from the DLL
     return lev_dll.levenshtein(s.encode('utf-8'), t.encode('utf-8'))
 
-def meteor(s,t):
-    # Call the meteor function from the DLL
-    return meteor_dll.meteor(s.encode('utf-8'), t.encode('utf-8'))
-
-def meteor_tokenized(s,t):
-    from transformers import BertTokenizer
-    # initialize a tokenizer
-    bert = BertTokenizer.from_pretrained("bert-base-cased")
+def lev_tokenized(s,t):
     s = bert.tokenize(s)
     t = bert.tokenize(t)
     s = bert.convert_tokens_to_ids(s)
     t = bert.convert_tokens_to_ids(t)
 
-    print(s,t)
+    # Call the meteor function from the DLL
+    return lev_dll.lev_tokenized((ctypes.c_int * len(s))(*s),(ctypes.c_int * len(t))(*t), len(s), len(t))
+
+def meteor(s,t):
+    # Call the meteor function from the DLL
+    return meteor_dll.meteor(s.encode('utf-8'), t.encode('utf-8'))
+
+def meteor_tokenized(s,t):
+    s = bert.tokenize(s)
+    t = bert.tokenize(t)
+    s = bert.convert_tokens_to_ids(s)
+    t = bert.convert_tokens_to_ids(t)
 
     # Call the meteor function from the DLL
     return meteor_dll.meteor_tokenized((ctypes.c_int * len(s))(*s),(ctypes.c_int * len(t))(*t), len(s), len(t))

@@ -34,17 +34,25 @@ static vector<string> split(const char* s){
     return res;
 }
 
-// to be called on two nonzero paragraphs
-// this implementation measures the lev distance by word, not by character
-// ie. levenshtein("hello jordan","hello meghan") = 1
-extern "C" __declspec(dllexport) int levenshtein(const char* arg1, const char* arg2) {
-    //convert the sentences of words to lists of words
-    vector<string> s = split(arg1);
-    vector<string> t = split(arg2);
+// Method to convert a list of tokens to a vector of tokens
+static vector<int> vectorize(int s[], int len){
+    vector<int> res = {}; // List of Strings
+    int token;
+
+    for (int i = 0; i<len; i++){
+        token = s[i];
+        res.push_back(token);
+    }
     
+    return res;
+}
+
+
+template <typename T>
+int distance(vector<T> s, vector<T> t){
     //add a blank character to the end of all the words, as this version of lev distance cannot account for last characters
-    s.push_back("finalword");
-    t.push_back("finalword");
+    s.push_back(T());
+    t.push_back(T());
 
     //get the length of the words
     int m = s.size();
@@ -90,4 +98,24 @@ extern "C" __declspec(dllexport) int levenshtein(const char* arg1, const char* a
     }
 
     return d[m-1][n-1];
+}
+
+// to be called on two nonzero strings of words
+// this implementation measures the lev distance by word, not by character
+// ie. levenshtein("hello jordan","hello meghan") = 1
+extern "C" __declspec(dllexport) int levenshtein(const char* ref, const char* cand) {
+    //convert the sentences of words to lists of words
+    vector<string> s = split(ref);
+    vector<string> t = split(cand);
+    
+    return distance(s,t);
+}
+
+// to be called on two nonzero arrays of tokens
+extern "C" __declspec(dllexport) int lev_tokenized(int ref[], int cand[], int ref_len, int cand_len) {
+    //convert the sentences of words to lists of words
+    vector<int> s = vectorize(ref, ref_len);
+    vector<int> t = vectorize(cand, cand_len);
+    
+    return distance(s,t);
 }
