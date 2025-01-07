@@ -4,10 +4,9 @@ import numpy as np
 from metrics import levenshtein, meteor
 from tqdm import tqdm
 import sys
-import math
 
 def preprocess(s):
-    return s.lower().replace(".","").replace("?","").replace("!","").replace(",","").replace(":","").replace(";","").replace("  "," ")
+    return s.lower().replace(".","").replace("’","'").replace("?","").replace("!","").replace(",","").replace(":","").replace(";","").replace("  "," ")
 
 # read the data from the array
 paragraphs = pd.read_csv("../data/paragraphs.csv")
@@ -38,13 +37,6 @@ for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparin
         google_distances = np.append(google_distances, levenshtein(google, human))
         distances = np.append(distances, levenshtein(google, deepl))
         num_words = np.append(num_words, len(english.split(" ")))
-
-        # An issue is caused when encoding apostrophes from the Original French
-        # This issue will be solved later
-        x = meteor(deepl,human)
-        y = meteor(google,human)
-        if (math.isnan(x) or math.isnan(y)):
-            continue
         deepl_meteor = np.append(deepl_meteor, meteor(deepl, human))
         google_meteor = np.append(google_meteor, meteor(google, human))
         
