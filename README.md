@@ -40,6 +40,8 @@ python test.py
 
 ## Results
 
-Preliminary results suggest that both DeepL and Google differ significantly from the Human translation, but that there is only about a 30% difference between Google and DeepL's translations directly. 
+Preliminary results suggest that both DeepL and Google differ significantly from the Human translation in levenshtein distance and meteor, but that there is less difference (only about a 30% difference in levenshtein distance) between Google and DeepL's translations directly. 
 
-![](images/figure.png)
+![](images/figure_lev.png)
+
+![](images/figure_meteor.png)
