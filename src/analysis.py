@@ -1,9 +1,10 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-from metrics import levenshtein, meteor
+from metrics import lev_tokenized, meteor_tokenized
 from tqdm import tqdm
 import sys
+import math
 
 def preprocess(s):
     return s.lower().replace(".","").replace("’","'").replace("?","").replace("!","").replace(",","").replace(":","").replace(";","").replace("  "," ")
@@ -21,6 +22,7 @@ google_distances = np.array([])
 distances = np.array([])
 deepl_meteor = np.array([])
 google_meteor = np.array([])
+scores = np.array([])
 num_words = np.array([])
 
 #compare the rest of the text
@@ -33,13 +35,18 @@ for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparin
 
     # Calculate and save the levenshtein distances
     try:
-        deepl_distances = np.append(deepl_distances, levenshtein(deepl, human))
-        google_distances = np.append(google_distances, levenshtein(google, human))
-        distances = np.append(distances, levenshtein(google, deepl))
+        deepl_distances = np.append(deepl_distances, lev_tokenized(deepl, human))
+        google_distances = np.append(google_distances, lev_tokenized(google, human))
+        distances = np.append(distances, lev_tokenized(google, deepl))
         num_words = np.append(num_words, len(english.split(" ")))
-        deepl_meteor = np.append(deepl_meteor, meteor(deepl, human))
-        google_meteor = np.append(google_meteor, meteor(google, human))
-        
+
+        deepl_current_score = meteor_tokenized(deepl, human)
+        google_current_score  = meteor_tokenized(google, human)
+        current_score = meteor_tokenized(google, deepl)
+        if(not math.isnan(deepl_current_score) and not math.isnan(google_current_score) and not math.isnan(current_score)):
+            deepl_meteor = np.append(deepl_meteor, deepl_current_score)
+            google_meteor = np.append(google_meteor, google_current_score)
+            scores = np.append(scores, current_score)    
     except Exception as e:
         pass
 
@@ -47,21 +54,17 @@ for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparin
 
 # Plot a comparison of deepl and google by levenshtein distance
 plt.title("Comparison of DeepL and Google Translation")
-plt.plot(deepl_distances, label="DeepL", color="blue")
-plt.plot(google_distances, label="Google", color="cyan")
-plt.ylabel("levenshtein distance")
+plt.plot(deepl_distances/num_words, label="DeepL", color="blue")
+plt.plot(google_distances/num_words, label="Google", color="cyan")
+plt.ylabel("Levenshtein distance (per English word)")
 plt.xlabel(
-    "Average Levenshtein distance between Google Translate and the Human Translation:"
-    + str(np.mean(google_distances))
-    + "\nAverage Levenshtein distance between DeepL and the Human Translation:"
-    + str(np.mean(deepl_distances))
-    + "\nAverage Levenshtein distance between DeepL and Google Translate"
-    + str(np.mean(distances))
-    + "\nPer-English-Word Levenshtein distance between DeepL and the Human Translation:"
+    "Mean distance between DeepL and Google Translate"
+    + str(np.mean(distances/num_words))
+    + "\nMean distance between DeepL and reference Translation:"
     + str(np.mean(deepl_distances/num_words))
-    + "\nPer-English-Word Levenshtein distance between Google Translate and the Human Translation:"
+    + "\nMean distance between Google Translate and reference Translation:"
     + str(np.mean(google_distances/num_words)),
-    fontsize=10
+    fontsize=9
 )
 plt.legend()
 plt.show()
@@ -70,13 +73,15 @@ plt.show()
 plt.title("Comparison of DeepL and Google Translation")
 plt.plot(deepl_meteor, label="DeepL", color="blue")
 plt.plot(google_meteor, label="Google", color="cyan")
-plt.ylabel("modified meteor score")
+plt.ylabel("Modified METEOR score")
 plt.xlabel(
-    "Average modified METEOR score between Google Translate and the Human Translation:"
+    "Mean score between DeepL and Google Translate: "
+    + str(np.mean(scores))
+    + "\nMean score between Google Translate and reference Translation: "
     + str(np.mean(google_meteor))
-    + "\nAverage modified METEOR score between DeepL and the Human Translation:"
+    + "\nMean score between between DeepL and reference Translation:"
     + str(np.mean(deepl_meteor)),
-    fontsize=10
+    fontsize=9
 )
 plt.legend()
 plt.show()
