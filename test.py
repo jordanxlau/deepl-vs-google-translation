@@ -1,5 +1,5 @@
 import unittest
-from src.metrics import levenshtein, meteor, sentiment
+from src.metrics import levenshtein, meteor, sentiment, meteor_tokenized
 from src.translate import deepl_translate, google_translate
 
 class TestCases(unittest.TestCase):
@@ -29,6 +29,10 @@ class TestCases(unittest.TestCase):
         self.assertEqual(round(meteor("le chat est sur le tapis","sur le tapis est le chat"), 4), 1)
         self.assertEqual(round(meteor("le chat est sur le tapis","le chat est sur le tapis"), 4), 1)
         self.assertEqual(round(meteor("le chat est sur le tapis","le chat il est sur le tapis"), 4), 0.9836)
+
+    def test_meteor_tokenized(self):
+        self.assertEqual(round(meteor_tokenized("the cat sat on the mat","on the mat sat the cat"), 4), 1)
+        self.assertEqual(round(meteor_tokenized("the kit sat on the mat","the kitty sat on the mat"), 4), 0.9836)
 
     def test_sentiment(self):
         self.assertTrue(sentiment("I love you!") > 0.98)
