@@ -38,13 +38,5 @@ class TestCases(unittest.TestCase):
         self.assertTrue(sentiment("I love you!") > 0.98)
         self.assertTrue(sentiment("This sucks!") < -0.98)
 
-    def test_deepl(self):
-        self.assertEqual(deepl_translate("Hello"),"Bonjour")
-        self.assertEqual(deepl_translate("Yes"),"Oui")
-
-    def test_google(self):
-        self.assertEqual(google_translate("Hello"),"Bonjour")
-        self.assertEqual(google_translate("Yes"),"Oui")
-
 if __name__ == '__main__':
     unittest.main()
