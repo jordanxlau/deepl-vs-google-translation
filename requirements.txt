@@ -1,0 +1,9 @@
+matplotlib
+transformers
+pandas
+numpy
+tqdm
+googletrans
+deepl
+tensorflow
+tf-keras
