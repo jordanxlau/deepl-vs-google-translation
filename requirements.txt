@@ -7,3 +7,4 @@ googletrans
 deepl
 tensorflow
 tf-keras
+torch
