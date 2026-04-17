@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-from metrics import lev_tokenized, meteor_tokenized
+from metrics import levenshtein, meteor
 from tqdm import tqdm
 import sys
 import math
@@ -35,14 +35,14 @@ for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparin
 
     # Calculate and save the levenshtein distances
     try:
-        deepl_distances = np.append(deepl_distances, lev_tokenized(deepl, human))
-        google_distances = np.append(google_distances, lev_tokenized(google, human))
-        distances = np.append(distances, lev_tokenized(google, deepl))
+        deepl_distances = np.append(deepl_distances, levenshtein(deepl, human))
+        google_distances = np.append(google_distances, levenshtein(google, human))
+        distances = np.append(distances, levenshtein(google, deepl))
         num_words = np.append(num_words, len(english.split(" ")))
 
-        deepl_current_score = meteor_tokenized(deepl, human)
-        google_current_score  = meteor_tokenized(google, human)
-        current_score = meteor_tokenized(google, deepl)
+        deepl_current_score = meteor(deepl, human)
+        google_current_score  = meteor(google, human)
+        current_score = meteor(google, deepl)
         if(not math.isnan(deepl_current_score) and not math.isnan(google_current_score) and not math.isnan(current_score)):
             deepl_meteor = np.append(deepl_meteor, deepl_current_score)
             google_meteor = np.append(google_meteor, google_current_score)

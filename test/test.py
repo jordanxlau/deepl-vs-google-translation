@@ -1,5 +1,5 @@
 import unittest
-from src.metrics import levenshtein, meteor, lev_tokenized, meteor_tokenized, sentiment
+from src.metrics import levenshtein, meteor, sentiment
 
 class TestCases(unittest.TestCase):
     def test_lev(self):
@@ -15,23 +15,12 @@ class TestCases(unittest.TestCase):
         self.assertEqual(levenshtein("ce sont les traductions","les traductions sont là"), 4)
         self.assertEqual(levenshtein("j'ai 585", "j'en ai 585"), 2)
 
-    def test_lev_tokenized(self):
-        self.assertEqual(lev_tokenized("antidisestablishmentarianism","antidisestablishmentarianism"),0)
-        self.assertEqual(lev_tokenized("the cat","the mouse"), 1)
-        self.assertEqual(lev_tokenized("il s'appelle","il m'appelle"),1)
-        self.assertEqual(lev_tokenized("j'ai 585", "j'en ai 585"), 1)
-        self.assertEqual(lev_tokenized("antidisestablishmentarianism", ""), 8)
-
     def test_meteor(self):
         self.assertEqual(meteor("the cat sat on the mat","on the mat sat the cat"), 1)
         self.assertEqual(meteor("the cat sat on the mat","the cat sat on the mat"), 1)
         self.assertAlmostEqual(meteor("the cat sat on the mat","the cat was sat on the mat"), 0.9836, places=4)
         self.assertEqual(meteor("le chat est sur le tapis","le chat est sur le tapis"), 1)
         self.assertAlmostEqual(meteor("le chat est sur le tapis","le chat il est sur le tapis"), 0.9836, places=4)
-
-    def test_meteor_tokenized(self):
-        self.assertEqual(meteor_tokenized("the cat sat on the mat","on the mat sat the cat"), 1)
-        self.assertAlmostEqual(meteor_tokenized("the kit sat on the mat","the kitty sat on the mat"), 0.9836, places=4)
 
     def test_sentiment(self):
         self.assertGreater(sentiment("I love you!"), 0.98)
