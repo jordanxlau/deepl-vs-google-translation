@@ -2,6 +2,7 @@ from translate import deepl_translate, google_translate
 from tqdm import tqdm
 import sys
 import pandas as pd
+import asyncio
 
 # preprocess the English text
 english_text = open('../data/full-text.txt', encoding="utf-8").read()
@@ -31,7 +32,7 @@ google_paragraphs = []
 # translate the text
 for paragraph in tqdm(english_paragraphs, colour="green", desc="Translating...", file=sys.stdout):
     deepl_paragraphs.append(deepl_translate(paragraph))
-    google_paragraphs.append(google_translate(paragraph))
+    google_paragraphs.append(asyncio.run(google_translate(paragraph)))
 
 # save the data as a .csv
 paragraphs = pd.DataFrame({

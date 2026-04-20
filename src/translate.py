@@ -1,7 +1,7 @@
-#provides functions that use deepl and googletranslate packages to translate text
+# Provides functions that use the DeepL API and googletrans package to translate text
 import os
 import deepl
-import googletrans as google
+from googletrans import Translator
 
 def deepl_translate(text):
     if text == "":
@@ -11,9 +11,7 @@ def deepl_translate(text):
     translation = translator.translate_text(text, target_lang="fr") 
     return translation.text
 
-def google_translate(text):
-    if text == "":
-        return ""
-    translator = google.Translator()
-    translation = translator.translate(text, src = 'en', dest = 'fr')
-    return translation.text
+async def google_translate(text):
+    async with Translator() as translator:
+        result = await translator.translate(text, src='en', dest='fr')
+        return result.text
