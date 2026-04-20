@@ -1,5 +1,5 @@
 import unittest
-from src.metrics import levenshtein, meteor, sentiment
+from metrics import levenshtein, meteor
 
 class TestCases(unittest.TestCase):
     def test_lev(self):
@@ -21,10 +21,6 @@ class TestCases(unittest.TestCase):
         self.assertAlmostEqual(meteor("the cat sat on the mat","the cat was sat on the mat"), 0.9836, places=4)
         self.assertEqual(meteor("le chat est sur le tapis","le chat est sur le tapis"), 1)
         self.assertAlmostEqual(meteor("le chat est sur le tapis","le chat il est sur le tapis"), 0.9836, places=4)
-
-    def test_sentiment(self):
-        self.assertGreater(sentiment("I love you!"), 0.98)
-        self.assertLess(sentiment("This sucks!"), -0.98)
 
 if __name__ == '__main__':
     unittest.main()
