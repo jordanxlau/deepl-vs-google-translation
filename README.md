@@ -42,12 +42,14 @@ python test.py
 
 ## Results
 
-Results from analysis of the tokenized data suggest that both DeepL and Google differ significantly from the reference/human translation in levenshtein distance and METEOR score. This could be due to more artistic (less exact or literal) translation by the human translator. However, neither seems much better than the other. If one were better, we would see it as much lower Levenshtein distance or higher METEOR score in the charts below.
+Results from analysis of the tokenized data suggest that both DeepL and Google differ significantly from the reference/human translation in Levenshtein Distance and METEOR score. However, both services' translations are quite similar to each other.
 
-Instead, we see little difference between Google and DeepL's translations directly. These are much closer correlated than either machine translation to the reference translation.
+If one were better, it would have a lower Levenshtein Distance or a higher METEOR score compared to the reference.
 
-I conclude that neither translation service is better than the other.
+**I conclude that neither translation service is better than the other.**
 
 ![](images/figure_lev.png)
 
 ![](images/figure_meteor.png)
+
+This could be due to more artistic (less literal) translation by the human translator or to similarities in the architecture and training of the translation models used by DeepL and Google.

@@ -1,8 +1,11 @@
 import matplotlib.pyplot as plt
+import seaborn as sns
 import pandas as pd
 import numpy as np
-from metrics import levenshtein, meteor
 from tqdm import tqdm
+
+from metrics import levenshtein, meteor
+
 import sys
 import math
 
@@ -25,7 +28,7 @@ google_meteor = np.array([])
 scores = np.array([])
 num_words = np.array([])
 
-#compare the rest of the text
+# Compare the text
 for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparing Paragraphs...", file=sys.stdout):
     # Preprocess the paragraph
     human = preprocess(human_paragraphs[i])
@@ -50,38 +53,42 @@ for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparin
     except Exception as e:
         pass
 
-# Plotting results
-
-# Plot a comparison of deepl and google by levenshtein distance
-plt.title("Comparison of DeepL and Google Translation")
-plt.plot(deepl_distances/num_words, label="DeepL", color="blue")
-plt.plot(google_distances/num_words, label="Google", color="cyan")
-plt.ylabel("Levenshtein distance (per English word)")
-plt.xlabel(
-    "Mean distance between DeepL and Google Translate"
-    + str(np.mean(distances/num_words))
-    + "\nMean distance between DeepL and reference Translation:"
-    + str(np.mean(deepl_distances/num_words))
-    + "\nMean distance between Google Translate and reference Translation:"
-    + str(np.mean(google_distances/num_words)),
-    fontsize=9
+# Create heatmaps for results
+lev_map = np.array(
+    [   # DeepL, Google, Reference
+        [0, np.mean(distances/num_words), np.mean(deepl_distances/num_words)], # DeepL
+        [None, 0, np.mean(google_distances/num_words)], # Google
+        [None, None, 0], # Reference
+    ],
+    dtype=float,
 )
-plt.legend()
+
+meteor_map = np.array(
+    [   # DeepL, Google, Reference
+        [1, np.mean(scores), np.mean(deepl_meteor)], # DeepL
+        [None, 1, np.mean(google_meteor)], # Google
+        [None, None, 1], # Reference
+    ],
+    dtype=float,
+)
+
+# Plotting results
+sns.heatmap(
+    lev_map,
+    annot=True,
+    xticklabels=["DeepL","Google","Reference"],
+    yticklabels=["DeepL","Google","Reference"],
+    cmap=sns.color_palette("crest_r", as_cmap=True)
+)
+plt.title("Mean Levenshtein Distance (per English word)")
 plt.show()
 
-# Plot a comparison of deepl and google by METEOR
-plt.title("Comparison of DeepL and Google Translation")
-plt.plot(deepl_meteor, label="DeepL", color="blue")
-plt.plot(google_meteor, label="Google", color="cyan")
-plt.ylabel("Modified METEOR score")
-plt.xlabel(
-    "Mean score between DeepL and Google Translate: "
-    + str(np.mean(scores))
-    + "\nMean score between Google Translate and reference Translation: "
-    + str(np.mean(google_meteor))
-    + "\nMean score between between DeepL and reference Translation:"
-    + str(np.mean(deepl_meteor)),
-    fontsize=9
+sns.heatmap(
+    meteor_map,
+    annot=True,
+    xticklabels=["DeepL","Google","Reference"],
+    yticklabels=["DeepL","Google","Reference"],
+    cmap=sns.color_palette("crest", as_cmap=True)
 )
-plt.legend()
+plt.title("Mean (modified) METEOR score")
 plt.show()
