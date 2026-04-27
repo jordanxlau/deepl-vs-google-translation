@@ -13,11 +13,11 @@ def preprocess(s):
     return s.lower().replace(".","").replace("’","'").replace("?","").replace("!","").replace(",","").replace(":","").replace(";","").replace("  "," ")
 
 # read the data from the array
-paragraphs = pd.read_csv("../data/paragraphs.csv")
-english_paragraphs = paragraphs.iloc[:,0]
-deepl_paragraphs = paragraphs.iloc[:,1]
-google_paragraphs = paragraphs.iloc[:,2]
-human_paragraphs = paragraphs.iloc[:,3]
+sentences = pd.read_csv("../data/sentences.csv")
+english_sentences = sentences.iloc[:,0]
+deepl_sentences = sentences.iloc[:,1]
+google_sentences = sentences.iloc[:,2]
+human_sentences = sentences.iloc[:,3]
 
 # initialize arrays to keep track of how much the softwares differ
 deepl_distances = np.array([])
@@ -29,12 +29,12 @@ scores = np.array([])
 num_words = np.array([])
 
 # Compare the text
-for i in tqdm (range(0, len(english_paragraphs)), colour="green", desc="Comparing Paragraphs...", file=sys.stdout):
+for i in tqdm (range(0, len(english_sentences)), colour="green", desc="Comparing sentences...", file=sys.stdout):
     # Preprocess the paragraph
-    human = preprocess(human_paragraphs[i])
-    deepl = preprocess(deepl_paragraphs[i])
-    google = preprocess(google_paragraphs[i])
-    english = preprocess(english_paragraphs[i])
+    human = preprocess(human_sentences[i])
+    deepl = preprocess(deepl_sentences[i])
+    google = preprocess(google_sentences[i])
+    english = preprocess(english_sentences[i])
 
     # Calculate and save the levenshtein distances
     try:
