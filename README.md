@@ -26,7 +26,7 @@ I use the WMT-14 fr-en dataset, test split, which contains 3003 translated sente
 The text is pre-translated in `load_data.py` and saved in `sentences.csv`. You need a DeepL auth key for this.
 
 ## Running the Experiment
-To run the data analysis for yourself (in the `/src` directory):
+To run the data analysis for yourself (in the `/workflow` directory):
 ```
 python analysis.py
 ```

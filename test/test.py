@@ -1,5 +1,5 @@
 import unittest
-from src.metrics import levenshtein, meteor
+from workflow.metrics import levenshtein, meteor
 
 class TestCases(unittest.TestCase):
     def test_lev(self):
