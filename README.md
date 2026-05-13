@@ -12,8 +12,6 @@ I implement the dynamic programming version from [Wikipedia](https://en.wikipedi
 
 ![](images/levenshtein.png)
 
-I modify the implementation such that it measures the distance by word, not by character.
-
 2. METEOR
 
 METEOR (Metric for Evaluation of Translation with Explicit ORdering) was originally introduced in 2005 by [Banerjee & Lavie](https://aclanthology.org/W05-0909.pdf). For simplicty, the current implementation is modified; I do not include the penalty for word order, and simply compute the weighted harmonic mean.
@@ -35,12 +33,10 @@ Unit tests in `test/test.py` are run on push with GitHub Actions.
 
 ## Results
 
-Results from analysis of the data suggest that both DeepL and Google differ significantly from the reference (human) translation in Levenshtein Distance and METEOR score, and that both services' translations are more similar to each other than to the references<sup>1</sup>. However, Google seems to approach more closely the reference translation, having a higher METEOR score and lower Levenshtein Distance to the reference than DeepL does.
+Results from analysis of the data suggest that both DeepL and Google differ significantly from the reference (human) translation in Levenshtein Distance and METEOR score. However, Google seems to approach more closely the reference translation, having a higher METEOR score and lower Levenshtein Distance to the reference than DeepL does.
 
 **I conclude that Google has a slight edge over DeepL.**
 
 ![](images/figure_lev.png)
 
 ![](images/figure_meteor.png)
-
-<sup>1</sup>This could be due to less literal translations by the human translator or to similarities in the architecture and training of the translation models used by both DeepL and Google.
