@@ -2,16 +2,12 @@ package main
 
 import "C"
 
-func main() {
-	// Unecessary, exporting Levenshtein only
-}
-
 //export Levenshtein
 func Levenshtein(s *C.char, t *C.char) C.int {
 	// convert to Go Runes
 	// index 0 represents the empty string
-	candidate :=  []rune( "Λ" + C.GoString(s) )
-	reference :=  []rune( "Λ" + C.GoString(t) )
+	candidate := []rune("Λ" + C.GoString(s))
+	reference := []rune("Λ" + C.GoString(t))
 
 	// get the length of the input strings
 	m := len(candidate)
@@ -54,7 +50,7 @@ func Levenshtein(s *C.char, t *C.char) C.int {
 				substitutionCost = 1
 			}
 
-			d[i][j] = min(/*deletion*/ d[i-1][j] + 1, /*insertion*/ d[i][j-1] + 1, /*substitution*/ d[i-1][j-1] + substitutionCost)
+			d[i][j] = min( /*deletion*/ d[i-1][j]+1 /*insertion*/, d[i][j-1]+1 /*substitution*/, d[i-1][j-1]+substitutionCost)
 		}
 	}
 
